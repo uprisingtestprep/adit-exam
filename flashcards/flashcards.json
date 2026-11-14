@@ -1,0 +1,3502 @@
+[
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Distinguish prescriptive, adjudicative and enforcement jurisdiction.",
+  "back": "Prescriptive is the power to make a tax law apply to a person or transaction; adjudicative is the power of courts and tax authorities to decide disputes; enforcement is the power to compel payment. Limits on the first are loose, limits on enforcement are firm and territorial.",
+  "id": 1
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What did the Lotus case (PCIJ, 1927) decide that matters for tax?",
+  "back": "A state may exercise jurisdiction over matters with a foreign element unless a prohibitive rule of international law forbids it, but it may not enforce on another state's territory without consent. For tax: wide right to legislate, narrow right to enforce.",
+  "id": 2
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Are Nottebohm and Barcelona Traction tax cases, and why are they cited?",
+  "back": "No. They are ICJ cases on the link between a state and an individual (diplomatic protection) and a company. They are cited by analogy for the idea that jurisdiction requires a genuine link, not as a tax test.",
+  "id": 3
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Name the main limits international law and treaties place on tax jurisdiction.",
+  "back": "A genuine link requirement, immunities (diplomats under VCDR 1961 Article 34, consuls under VCCR 1963, states and international organisations), obligations under a DTC, and supranational law such as EU freedoms. Enforcement is limited by territoriality.",
+  "id": 4
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What is the revenue rule and where does it come from?",
+  "back": "Courts of one state will not enforce the revenue laws of another. It is traced to Holman v Johnson (1775) and applied in Government of India v Taylor (House of Lords, 1955). It is a rule of the requested state's courts, not of international law.",
+  "id": 5
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Which Articles of the OECD and UN Models deal with cross-border help in tax collection?",
+  "back": "Article 26 covers exchange of information and Article 27 covers assistance in the collection of taxes, in both Models. Many bilateral treaties omit Article 27, and the multilateral Convention on Mutual Administrative Assistance in Tax Matters also covers recovery.",
+  "id": 6
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What safeguards limit assistance in collection under Article 27?",
+  "back": "The revenue claim must be final and enforceable, the requested state collects as if it were its own claim, and it need not act contrary to its public policy or beyond its own law and administrative practice.",
+  "id": 7
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "State the usual working definition of a tax.",
+  "back": "A compulsory, unrequited payment to a government (central or local). It differs from a fee (linked to a specific service), a fine or penalty, and, depending on how closely benefits are tied to payments, from a social security contribution.",
+  "id": 8
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Why does the classification of a levy matter in an international tax question?",
+  "back": "It decides whether the levy falls within a treaty under Article 2, whether a foreign payment qualifies for credit, and whether it is deductible. Courts look at substance, not the label, as in PPL Corporation v Commissioner (US Supreme Court, 2013).",
+  "id": 9
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What did PPL Corporation v Commissioner (2013) hold?",
+  "back": "The US Supreme Court held that a UK windfall tax was creditable in the United States as an income tax, because its predominant character was that of an income tax in the US sense whatever it was called.",
+  "id": 10
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Distinguish direct from indirect taxes and progressive from regressive taxes.",
+  "back": "Direct taxes are meant to be borne by the legal taxpayer (income tax), indirect taxes are meant to be passed on (VAT, excise). A progressive tax has an average rate rising with the base, a regressive one falls as the base rises.",
+  "id": 11
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Which taxes does Article 2 of the OECD and UN Models cover?",
+  "back": "Taxes on income and on capital, including gains from alienation of property, taxes on total wages paid by enterprises and taxes on capital appreciation, imposed for a state or its political subdivisions or local authorities. Article 2(4) adds identical or substantially similar later taxes. VAT is not covered.",
+  "id": 12
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Is a digital services tax within Article 2?",
+  "back": "It is disputed. Some states argue a levy on gross revenue is not a tax on income and is outside Article 2; others argue it is an income tax in substance. Answer by classifying the base, the taxpayer and the burden, then applying the Article 2(4) test.",
+  "id": 13
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Why do federal systems matter for treaty scope?",
+  "back": "A treaty covers sub-national taxes only if its text does (Article 2(1) refers to political subdivisions, but the Article 2(3) list usually names national taxes). A central government may also lack power to bind units, so federal states often limit treaties to federal taxes.",
+  "id": 14
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Give examples of how federations divide taxing power.",
+  "back": "Separate and concurrent income taxes in Canada and the United States, constitutionally shared revenues in Germany, and local property or trade taxes. Domestic rules supply internal relief, such as credits for other states' tax or apportionment formulas.",
+  "id": 15
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What is the difference between source and situs?",
+  "back": "Source is the economic origin of income; situs is the location of an asset. Both are defined by domestic statute, and income from an asset normally takes its source where the asset has its situs.",
+  "id": 16
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What are the usual situs rules for immovable property, shares and debts?",
+  "back": "Immovable property is located where the land is; shares are located where the issuing company is resident or incorporated (or where the register is kept); debts where the debtor resides or the debt is enforceable. Differences between states cause double taxation.",
+  "id": 17
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Why is residence the dominant connecting factor?",
+  "back": "It identifies the state with closest present links to the person, so it is accepted as a basis for taxing worldwide income. Source and situs support taxing only local income or assets.",
+  "id": 18
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What is domicile and how does it differ from residence?",
+  "back": "Domicile is a legal concept of permanent home and intention, acquired at birth (domicile of origin) or by choice. It changes more slowly than residence and is used mainly in common law systems, for example in wealth and inheritance taxes.",
+  "id": 19
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "List the factors states use to decide the residence of individuals.",
+  "back": "Days of physical presence (commonly 183 days), a permanent home available, habitual abode, family and economic ties, intention, and nationality or government service. Some states combine them in statutory tests, such as the UK statutory residence test.",
+  "id": 20
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "How does treaty residence differ from domestic residence under Article 4(1)?",
+  "back": "A person is a treaty resident of a state if liable to tax there by reason of domicile, residence, place of management or a similar criterion. A person liable only on source income or situated capital is excluded. Both Models read the same.",
+  "id": 21
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "State the Article 4(2) tie-breaker for dual-resident individuals, in order.",
+  "back": "Permanent home available; centre of vital interests; habitual abode; nationality; then mutual agreement of the competent authorities. The order is the same in the OECD and UN Models and each test applies only if the earlier ones do not decide.",
+  "id": 22
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What tests do states use for the residence of companies?",
+  "back": "Place of incorporation, central management and control, place of effective management, seat or head office, or a combination. A company incorporated in one state and managed in another can be resident of both under domestic law.",
+  "id": 23
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "State the UK common law test of company residence and its source.",
+  "back": "Residence is where central management and control abides, meaning where the real business is carried on (De Beers Consolidated Mines v Howe, 1906). In Unit Construction v Bullock (1960) subsidiaries managed in practice by a UK parent were held UK resident.",
+  "id": 24
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "How did Article 4(3) for dual-resident companies change in the OECD and UN Models?",
+  "back": "The older text, including the UN Model 2021, deems residence to be the place of effective management. Since 2017 the OECD Model, and the UN Model 2025, have the competent authorities decide by mutual agreement, having regard to place of effective management, place of incorporation and other factors; absent agreement, treaty benefits are denied except as agreed.",
+  "id": 25
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Why did the OECD move away from place of effective management in 2017?",
+  "back": "It is hard to apply and invites disputes, and following BEPS Action 6 the OECD preferred case by case mutual agreement, so incorporation alone does not settle treaty residence and there is no automatic tie-breaker.",
+  "id": 26
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "On what basis does the United States tax citizens and what authority supports it?",
+  "back": "The United States taxes citizens and residents on worldwide income wherever they live. Its constitutional basis was confirmed in Cook v Tait (US Supreme Court, 1924). Very few other states tax on nationality in this way.",
+  "id": 27
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What is the saving clause in US treaties?",
+  "back": "A provision (Article 1(4) of the US Model) that lets the United States tax its own citizens and residents as if the treaty had not come into effect, with listed exceptions. The OECD Model (Article 1(3)) and the UN Model (Article 1(4) in the 2025 numbering) also have a saving clause, but it covers residents only, not citizens.",
+  "id": 28
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "How is double taxation of a US citizen living abroad relieved?",
+  "back": "Mainly by the US foreign tax credit (limited to US tax on the foreign income, in baskets) and the foreign earned income exclusion up to an indexed amount. Relief is imperfect because of timing, rate and base differences.",
+  "id": 29
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Summarise the arguments for and against taxing citizens.",
+  "back": "For: the state protects and benefits nationals abroad and may deter tax-motivated emigration. Against: it may give little in return, it overlaps with residence-based taxation causing double taxation, and enforcement abroad depends on foreign information.",
+  "id": 30
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "List common source rules for employment income, dividends and interest.",
+  "back": "Employment income arises where the work is performed (often apportioned by days); dividends where the payer company is resident; interest where the payer is resident or, in some states, where the funds are used or the debt secured.",
+  "id": 31
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "List common source rules for royalties, business profits and capital gains.",
+  "back": "Royalties arise where the right is used or the payer resides; business profits where the business is carried on, usually through a permanent establishment; gains on immovable property where it is situated, with growing rules on property-rich shares and indirect transfers.",
+  "id": 32
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What did the Indian Supreme Court decide in Vodafone International Holdings (2012) and what followed?",
+  "back": "It held the sale of shares in a non-resident holding company owning an Indian business was not taxable in India. India then legislated with retrospective effect to tax such indirect transfers, which illustrates the widening source claim and its uncertainty.",
+  "id": 33
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What is an exit tax and how does it work?",
+  "back": "On ceasing to be resident, the person or company is treated as disposing of certain assets at market value and is taxed on the unrealised gain. Examples include Canada's departure tax and rules in Germany and France; deferral or instalments may be offered.",
+  "id": 34
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What does Article 5 of the EU Anti-Tax Avoidance Directive (2016) require?",
+  "back": "Member states must apply exit taxation when assets, tax residence or a business are transferred out of the state, with payment in equal instalments over five years available for transfers to other EU or EEA states, with possible interest and guarantee.",
+  "id": 35
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What did the CJEU decide on exit taxes in de Lasteyrie du Saillant, N and National Grid Indus?",
+  "back": "Immediate taxation of unrealised gains on moving to another member state restricts the freedoms and cannot be justified. A state may tax the gain but must allow deferral (for companies a choice of immediate or deferred payment) and may not count later falls in value.",
+  "id": 36
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "Why can emigration cause double taxation on arrival in the new state?",
+  "back": "If the arrival state gives no step-up in base cost to market value, it taxes the full gain including the part already taxed by the exit state. A fresh-start step-up, a treaty clause or credit relieves it.",
+  "id": 37
+ },
+ {
+  "chapter": 1,
+  "domain": "basic",
+  "front": "What happens to a US citizen's tax position on renouncing citizenship?",
+  "back": "Renunciation does not end US liability on its own: covered expatriates face an exit tax (mark to market on worldwide assets above an indexed exclusion amount). For residence-based states a change of nationality has no income tax effect without a change of residence.",
+  "id": 38
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is international juridical double taxation?",
+  "back": "The imposition of comparable taxes in two or more states on the same taxpayer, for the same subject matter and period (OECD Commentary on Article 23).",
+  "id": 39
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "How does economic double taxation differ from juridical double taxation?",
+  "back": "Two different taxpayers are taxed on the same income, for example company and shareholder, or associated enterprises after a transfer pricing adjustment. Treaties address it only in places such as Article 9(2) and the mutual agreement procedure.",
+  "id": 40
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Name the three basic conflicts that cause double taxation.",
+  "back": "Residence against source, residence against residence, and source against source.",
+  "id": 41
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Give an example of a source against source conflict.",
+  "back": "A royalty paid by a company resident in State S but borne by a permanent establishment in State T: State S taxes by payer residence and State T by the location of the burdened establishment.",
+  "id": 42
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Why does US citizenship taxation cause double taxation, and how do treaties respond?",
+  "back": "The United States taxes citizens on worldwide income wherever resident, so a US citizen resident abroad is taxed twice. Treaties preserve the right through the saving clause (Article 1(3), OECD Model 2017) and the United States gives foreign tax credit.",
+  "id": 43
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is the limit on an ordinary credit under Article 23B(1)?",
+  "back": "The credit may not exceed the part of the residence state's tax, computed before the credit, that is attributable to the income taxable in the other state (OECD and UN Articles 23B(1)).",
+  "id": 44
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is the difference between a full credit and an ordinary credit?",
+  "back": "A full credit gives all foreign tax even if it exceeds residence tax on that income; an ordinary credit is capped at the residence tax on the foreign income.",
+  "id": 45
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is an indirect or underlying credit and where does it come from?",
+  "back": "Relief for corporate tax borne by the paying company on the profits from which a dividend is paid. It is not in Article 23 but in domestic law or bilateral provisions, usually for a minimum shareholding.",
+  "id": 46
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "A subsidiary pays tax of 250 on profits of 1,000 and distributes 600 of its 750 after tax profit. What is the underlying tax on the dividend?",
+  "back": "250 × 600 ÷ 750 = 200, so the grossed up dividend is 800 (600 plus 200).",
+  "id": 47
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is tax sparing and what is the OECD position?",
+  "back": "Credit for tax that would have been paid but for a source state incentive. The OECD (1998 report) sees it as open to abuse and suited to limited cases; the UN Commentary is more sympathetic to developing states.",
+  "id": 48
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "State the effect of Article 23A(1) and 23A(3).",
+  "back": "Article 23A(1) obliges the residence state to exempt income that may be taxed in the other state under the treaty; 23A(3) allows the exempt income to be taken into account to fix the rate on remaining income (exemption with progression).",
+  "id": 49
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "When does Article 23A(2) replace exemption with credit?",
+  "back": "For dividends and interest taxed at source under Articles 10 and 11 in the OECD Model, and also royalties under Article 12 in the UN Model.",
+  "id": 50
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What does Article 23A(4) allow and why?",
+  "back": "The residence state may switch from exemption to credit where the other state applies the treaty to exempt the income or limit its tax because of a conflict of qualification or interpretation, preventing double non-taxation.",
+  "id": 51
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is a participation exemption and is it in Article 23?",
+  "back": "A domestic rule exempting dividends (and often gains) from a substantial shareholding, usually with holding percentage, period and subject to tax conditions. It is not in Article 23.",
+  "id": 52
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Give three practical difficulties in applying the credit method.",
+  "back": "Deciding which foreign levy is a creditable income tax, matching timing and currency of foreign tax, and allocating expenses to foreign income, which changes the limit.",
+  "id": 53
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Define capital export neutrality and name the method that approximates it.",
+  "back": "A resident faces the same total tax at home or abroad, so investment location follows pre-tax returns. The ordinary credit approximates it.",
+  "id": 54
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Define capital import neutrality and name the method that approximates it.",
+  "back": "All investors in a market face the same tax burden, so foreign and local investors pay the same total tax. Exemption approximates it.",
+  "id": 55
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Investor in State R (30%) earns 100 in State S (20%). What is the after tax return under credit and under exemption?",
+  "back": "Credit: State S tax 20 plus top up 10, total 30, after tax 70 (same as home, CEN). Exemption: tax 20, after tax 80 (same as local investors, CIN).",
+  "id": 56
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Why does an ordinary credit fail CEN when the source rate is higher?",
+  "back": "The credit is capped at residence tax, so the excess foreign tax is lost and the foreign investment bears more tax than a home investment.",
+  "id": 57
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "How does relief by deduction work and why is it weak?",
+  "back": "Foreign tax is deducted as an expense, so only foreign tax multiplied by the residence rate is saved: foreign tax of 30 at a 20% rate saves 6, against a credit of up to 20.",
+  "id": 58
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is deferral and why does it lead to controlled foreign company rules?",
+  "back": "Residence tax is postponed until profits are paid up or shares are sold, so a low tax subsidiary can accumulate profits. CFC rules tax certain undistributed passive or low taxed profits currently.",
+  "id": 59
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Contrast the incorporation theory and the real seat theory.",
+  "back": "Incorporation theory applies the law of the place of incorporation to an entity; real seat theory applies the law of the place of central administration.",
+  "id": 60
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What is the difference between an opaque and a transparent entity?",
+  "back": "An opaque entity is taxed itself and its distributions are taxed again to owners; a transparent entity is ignored and owners are taxed directly on their shares.",
+  "id": 61
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Name three approaches states use to classify foreign entities.",
+  "back": "The analogy test against domestic entity types, following the foreign law classification, and elective classification such as the United States check the box regulations (1997).",
+  "id": 62
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What did Anson v Revenue and Customs (UK Supreme Court 2015) decide?",
+  "back": "A UK resident member of a US LLC was entitled to credit for US tax on the LLC's profits, because for UK purposes the profits arose to the member as to a partner.",
+  "id": 63
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What does Article 1(2) of the OECD Model provide about fiscally transparent entities?",
+  "back": "Income derived through a transparent entity is treated as income of a resident of a state only to the extent that state treats it as the income of one of its residents (added 2017; a similar UN provision exists).",
+  "id": 64
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Distinguish a conflict of qualification of facts from a conflict of interpretation.",
+  "back": "Qualification of facts: states view the underlying legal relationship differently. Interpretation: states agree the facts but read a treaty Article differently. Either can cause double taxation or double non-taxation.",
+  "id": 65
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What did the 1923 report to the League of Nations propose?",
+  "back": "By Bruins, Einaudi, Seligman and Stamp, it proposed that taxing rights follow economic allegiance (where wealth is produced, owned and disposed of), favouring residence for most income.",
+  "id": 66
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What distinguished the 1943 Mexico and 1946 London drafts?",
+  "back": "Mexico (capital importing states) gave more weight to source taxation; London (capital exporting states) gave more weight to residence.",
+  "id": 67
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "When was the first OECD Model published and what preceded it?",
+  "back": "In 1977, with Commentaries; it was preceded by the 1963 Draft Double Taxation Convention (work begun by the OEEC Fiscal Committee, established 1956).",
+  "id": 68
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What was the G20 and OECD BEPS project?",
+  "back": "A 2013 OECD and G20 project against base erosion and profit shifting, producing an Action Plan of 15 Actions with final reports in October 2015 and the Inclusive Framework from 2016.",
+  "id": 69
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Name key ways the UN Model differs from the OECD Model.",
+  "back": "In UN Model 2021 numbering it retains Article 14 (deleted in the 2025 UN Model), has a service permanent establishment rule in Article 5(3)(b) and a six month construction project threshold, and adds Article 12A on fees for technical services (UN Model 2021 numbering; replaced by Article 12AA in the 2025 edition) and Article 12B on automated digital services (the 2025 update also adds Articles 1(3), 5A and 12C).",
+  "id": 70
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What role did the UN Ad Hoc Group of Experts play?",
+  "back": "Set up in 1968 by ECOSOC, it produced the first UN Model in 1980 for treaties between developed and developing states, giving more weight to source taxation; it became the Committee of Experts in 2004.",
+  "id": 71
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "How does Article 1 of Protocol 1 of the ECHR treat taxes?",
+  "back": "It protects possessions but its second paragraph preserves the state's right to enforce laws to secure payment of taxes; the margin of appreciation is wide and review is mainly for a fair balance.",
+  "id": 72
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Does Article 6 ECHR apply to tax disputes?",
+  "back": "Not as such: Ferrazzini v Italy (2001) held tax disputes outside civil rights and obligations, but penalties may be criminal in nature (Jussila v Finland, 2006).",
+  "id": 73
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "Which ICCPR Articles are most relevant to tax?",
+  "back": "Article 26 (equality and non-discrimination), Article 17 (privacy and information exchange), Article 14 (fair trial) and arguably Article 12 (freedom to leave a country, exit taxes). The ICCPR has no right to property.",
+  "id": 74
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What are the four key factors of a harmful preferential regime in the 1998 OECD report?",
+  "back": "No or low effective tax, ring fencing, lack of transparency, and lack of effective exchange of information.",
+  "id": 75
+ },
+ {
+  "chapter": 2,
+  "domain": "basic",
+  "front": "What did BEPS Action 5 add to the harmful tax competition work?",
+  "back": "A substantial activity requirement, applied to IP regimes through the modified nexus approach, and spontaneous exchange of rulings, with peer review by the Forum on Harmful Tax Practices.",
+  "id": 76
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is a limited tax treaty, and what must an analyst do about income it does not cover?",
+  "back": "A treaty confined to one subject or class of income, such as shipping and air transport profits or exchange of information. Domestic law of each state governs everything outside its scope; silence is not an exemption.",
+  "id": 77
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What does a TIEA provide, and why is it used with low-tax jurisdictions?",
+  "back": "It provides exchange of information and nothing else, with no distributive rules or relief. It is the usual instrument where a jurisdiction will not sign a comprehensive DTC.",
+  "id": 78
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Name two multilateral instruments relevant to tax treaties.",
+  "back": "The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS (MLI), which modifies bilateral treaties, and the Convention on Mutual Administrative Assistance in Tax Matters, which covers exchange and assistance.",
+  "id": 79
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Why are comprehensive distributive treaties mostly bilateral?",
+  "back": "Each is a negotiated trade between two states whose investment flows and interests differ, so a single multilateral allocation is hard to agree. The MLI avoids this with optional provisions that match only where both parties opt in.",
+  "id": 80
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "List the usual stages from negotiation of a bilateral DTC to its application.",
+  "back": "Negotiation of drafts, initialling, signature, domestic ratification, exchange of instruments, entry into force, then effective dates, which are often split between withholding taxes and other taxes.",
+  "id": 81
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "How do developing-state negotiating positions typically differ from the OECD pattern?",
+  "back": "They press for UN-influenced terms: a wider source-state right, lower PE time thresholds, higher withholding rates and provisions such as UN Article 12A on fees for technical services (UN Model 2021 numbering; replaced by Article 12AA on fees for services in the UN Model 2025).",
+  "id": 82
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is the difference between monist and dualist systems for treaties?",
+  "back": "In a monist system a ratified treaty is part of domestic law without a statute and often outranks ordinary legislation, as in the Netherlands. In a dualist system a statute must give it effect, as in the United Kingdom.",
+  "id": 83
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is the last in time rule?",
+  "back": "Where treaties and statutes have equal domestic rank, as in the United States, a later conflicting statute prevails over an earlier treaty, and a later treaty over an earlier statute.",
+  "id": 84
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Does a DTC create a charge to tax?",
+  "back": "No. A treaty normally only limits a charge that domestic law has created (subject to the saving clause and special anti-abuse cases), so the first step is always to check whether domestic law taxes the item.",
+  "id": 85
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Define treaty override.",
+  "back": "A state legislates, or applies domestic law, so as deliberately to conflict with its treaty obligations, and its national courts apply the domestic rule. It engages VCLT Articles 26 and 27.",
+  "id": 86
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Which VCLT Articles are engaged by treaty override?",
+  "back": "Article 26 (a treaty must be performed in good faith, pacta sunt servanda) and Article 27 (a party may not invoke internal law to justify non-performance).",
+  "id": 87
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "How does treaty override differ from applying a domestic anti-abuse rule?",
+  "back": "Override is an acknowledged conflict with the treaty. A domestic anti-abuse rule applied consistently with the Commentary on Article 1 is not a breach, because the treaty is read as not protecting abuse.",
+  "id": 88
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Give two arguments for and two against treaty override.",
+  "back": "For: legislative sovereignty in dualist systems and the slowness of renegotiation. Against: breach of good faith (VCLT Articles 26 and 27) and loss of certainty for taxpayers and investors, with risk of retaliation.",
+  "id": 89
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Who prepares the OECD Model and its Commentaries?",
+  "back": "The OECD Committee on Fiscal Affairs and its working parties, which draft updates by consensus of member countries; the Council adopts them on the Committee's recommendation. Non-members are consulted.",
+  "id": 90
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What do the OECD Commentaries contain besides explanation of the Articles?",
+  "back": "Observations and reservations by member and non-member states, which show where a state does not accept the Commentary position.",
+  "id": 91
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Which BEPS Actions drove the treaty changes in the OECD Model and the MLI?",
+  "back": "Action 2 (hybrid mismatches), Action 6 (treaty abuse), Action 7 (avoidance of PE status) and Action 14 (dispute resolution).",
+  "id": 92
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What statement of purpose do treaties now carry after the BEPS project?",
+  "back": "A preamble stating the intention to eliminate double taxation without creating opportunities for non-taxation or reduced taxation through evasion or avoidance, including treaty shopping.",
+  "id": 93
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "State two points on which the UN Model gives more to the source state than the OECD Model.",
+  "back": "UN Article 5 has a service PE and a lower building-site threshold, and UN Article 13 widens source taxation of gains on shares. UN Article 12A on fees for technical services (UN Model 2021 numbering; replaced by Article 12AA in the UN Model 2025) has no OECD equivalent.",
+  "id": 94
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Which Articles exist only in the UN Model?",
+  "back": "Article 12A (fees for technical services) and Article 12B (income from automated digital services). UN Article 14 on independent personal services remained in the Model until the UN Model 2025, which deleted Articles 12A and 14 and replaced them with a new Article 12AA; the 2027 syllabus still names 12A and 14, so state the edition. The OECD deleted its own Article 14 in 2000.",
+  "id": 95
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Who prepares the UN Model, and for whose benefit is it designed?",
+  "back": "The UN Committee of Experts on International Cooperation in Tax Matters, for treaties between developed and developing countries where investment flows are asymmetrical.",
+  "id": 96
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Is the OECD Article numbering the same as the UN numbering throughout?",
+  "back": "No. For example the OECD has Article 30 on territorial extension that the UN lacks (UN Article 29 on entitlement to benefits matches OECD Article 29), so entry into force sits at OECD Article 31 and UN Article 30 (the OECD Article 30 is territorial extension). If unsure, name the provision.",
+  "id": 97
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is the status of a protocol to a treaty?",
+  "back": "It forms part of the treaty and is read with it, so it must be checked for interpretive points and special provisions.",
+  "id": 98
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Name the four gates for an MLI provision to change a bilateral treaty.",
+  "back": "Both states are MLI parties; both list the treaty as a Covered Tax Agreement; neither has reserved against the Article (and both have opted in if it is optional); and any compatibility clause is satisfied.",
+  "id": 99
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What are the MLI minimum standards?",
+  "back": "The preamble statement, treaty abuse protection (principal purpose test, or alternatives such as the PPT with simplified LOB or a detailed LOB with anti-conduit rule), and improved mutual agreement procedure.",
+  "id": 100
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is a synthesised text under the MLI, and is it the legal text?",
+  "back": "A consolidated reading of the bilateral treaty with the MLI changes applied. It is a convenience only; the legal text is the treaty read with the MLI.",
+  "id": 101
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "When did the MLI enter into force, and when does it enter into force for a given state?",
+  "back": "It entered into force on 1 July 2018. For a ratifying state it enters into force on the first day of the month after three calendar months from deposit of the instrument.",
+  "id": 102
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "For a treaty modified by the MLI, from when does it have effect for withholding taxes and for other taxes?",
+  "back": "Withholding taxes: events on or after the first day of the next calendar year beginning on or after the later entry into force. Other taxes: tax periods beginning on or after six calendar months from that date.",
+  "id": 103
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "State the first three steps of the stepwise approach to a treaty scenario.",
+  "back": "Identify the facts; apply domestic law first to see whether a charge arises; then find the correct treaty text in force and effective for the period, including protocols and MLI changes.",
+  "id": 104
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "In the stepwise approach, what is checked before the distributive Article?",
+  "back": "Whether the person is covered (Article 1, via residence under Article 4), whether the tax is covered (Article 2), and residence tie-breakers for dual residents.",
+  "id": 105
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "In the stepwise approach, where do anti-abuse rules and relief come?",
+  "back": "After the distributive rule: anti-abuse (preamble, PPT, LOB, domestic rules read with the Commentary on Article 1), then relief under Article 23A or 23B, then non-discrimination and MAP.",
+  "id": 106
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "State the VCLT general rule of interpretation.",
+  "back": "Article 31: interpret in good faith according to the ordinary meaning of the terms in their context and in light of the treaty's object and purpose.",
+  "id": 107
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What does VCLT Article 32 allow, and when?",
+  "back": "Recourse to supplementary means such as travaux préparatoires, to confirm the Article 31 meaning or to determine it where it is ambiguous, obscure, or manifestly absurd or unreasonable.",
+  "id": 108
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Which VCLT Article deals with treaties in more than one language?",
+  "back": "Article 33: each authenticated text is equally authoritative unless the treaty says otherwise, and terms are presumed to have the same meaning in each text.",
+  "id": 109
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "Are the OECD Commentaries binding in interpreting a treaty?",
+  "back": "No. They are not part of the treaty, but courts in many states treat them as persuasive, either as context under VCLT Article 31 or as supplementary means under Article 32.",
+  "id": 110
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is the ambulatory approach to the OECD Commentaries?",
+  "back": "Reading a treaty with the Commentary as updated, on the OECD view that later changes mostly clarify the Articles. The static view reads the Commentary as at the date the treaty was concluded.",
+  "id": 111
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What is the main objection to the ambulatory approach?",
+  "back": "Parties could only have agreed what existed when they signed, so later changes risk altering a treaty unilaterally; and the line between a clarification and a change of substance is contested.",
+  "id": 112
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "What does Article 3(2) provide for undefined terms?",
+  "back": "Unless the context requires otherwise, an undefined term has the meaning it has at the time under the domestic law of the state applying the treaty for the taxes covered, with tax law meanings prevailing over other laws. It is the same in the OECD and UN Models.",
+  "id": 113
+ },
+ {
+  "chapter": 3,
+  "domain": "treaties",
+  "front": "How is a competent authority procedure relevant to interpretation?",
+  "back": "Article 25(3) requires the competent authorities to endeavour to resolve doubts on interpretation or application. An agreement is a subsequent agreement of the parties under VCLT Article 31(3)(a), with strong interpretive weight.",
+  "id": 114
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Who can claim the benefits of a double taxation convention?",
+  "back": "Residents of one or both Contracting States (Article 1(1), OECD and UN). A person resident of neither State has no rights under that treaty.",
+  "id": 115
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does Article 1(2) provide for fiscally transparent entities?",
+  "back": "Income derived by or through a transparent entity is treated as income of a resident of a State only to the extent that State treats it, for its own tax purposes, as income of its resident (OECD and UN Article 1(2), inserted in 2017).",
+  "id": 116
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "State R taxes a partner on a transparent partnership's State S dividends. Who claims the R to S treaty rate?",
+  "back": "The partner, as a resident of State R, claims the rate on the income State R taxes as the partner's own (Article 1(2)). The partnership is not itself resident.",
+  "id": 117
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does the saving clause do (Article 1(3) in the OECD Model, Article 1(4) in the UN Model 2025)?",
+  "back": "It preserves a State's right to tax its own residents on worldwide income, apart from listed benefits such as the Article 9(2) corresponding adjustment and relief rules. The Commentary treats CFC rules as compatible.",
+  "id": 118
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does the 2017 preamble add to the OECD and UN Models?",
+  "back": "An intention to eliminate double taxation without creating opportunities for non-taxation or reduced taxation through evasion or avoidance, including treaty-shopping. MLI Article 6 inserts it into covered treaties.",
+  "id": 119
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Which taxes does Article 2 cover?",
+  "back": "Taxes on income and on capital imposed for a State, its political subdivisions or local authorities (Article 2(1) and (2)), including taxes on gains, on total wages paid by enterprises and on capital appreciation.",
+  "id": 120
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What is the effect of Article 2(4)?",
+  "back": "The treaty also applies to identical or substantially similar taxes imposed after signature, in addition to or in place of existing taxes. The States notify each other of significant changes.",
+  "id": 121
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Is VAT covered by Article 2?",
+  "back": "No. Indirect taxes such as VAT and customs duties are outside Article 2, and on the Commentary view so are social security contributions.",
+  "id": 122
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "How is a gross-revenue digital services tax analysed under Article 2?",
+  "back": "It is generally argued to be a turnover tax and not a tax on income or elements of income, so outside Article 2(2), although taxing States sometimes assert the opposite. Test it against Article 2(2) and Article 2(4).",
+  "id": 123
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What is the structure of OECD Article 29?",
+  "back": "Entitlement to benefits: a limitation on benefits (LOB) rule plus a principal purpose test (PPT) in paragraph 9, reflecting the BEPS Action 6 minimum standard.",
+  "id": 124
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "How can the BEPS Action 6 minimum standard be met?",
+  "back": "By a PPT alone, a PPT plus a simplified or detailed LOB, or a detailed LOB plus an anti-conduit mechanism.",
+  "id": 125
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "State the PPT.",
+  "back": "A benefit is denied if it is reasonable to conclude that obtaining it was one of the principal purposes of an arrangement that resulted in it, unless granting it accords with the object and purpose of the relevant provisions (OECD Article 29(9)).",
+  "id": 126
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Does the PPT require tax avoidance to be the main purpose?",
+  "back": "No. It is enough that obtaining the benefit was one of the principal purposes, though a merely incidental purpose is not principal.",
+  "id": 127
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What is a qualified person under an LOB rule?",
+  "back": "A person who meets listed tests, typically individuals, governments, publicly traded companies, companies owned at least 50 per cent by qualified persons that pass a base erosion test, and some pension and non-profit bodies.",
+  "id": 128
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Compare the PPT and the LOB.",
+  "back": "The LOB is objective and certain but rigid and can be bypassed by novel structures. The PPT is flexible and fact-based but uncertain and depends on authorities and courts.",
+  "id": 129
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Which MLI article adopts the PPT?",
+  "back": "MLI Article 7, which also allows an optional simplified LOB and discretionary relief.",
+  "id": 130
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Which Articles cover entry into force and termination in the OECD and UN Models?",
+  "back": "Entry into force: OECD Article 31 and UN Article 30. Termination: OECD Article 32 and UN Article 31.",
+  "id": 131
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does OECD Article 30 provide?",
+  "back": "Territorial extension: the Convention may be extended to territories whose international relations a State handles, subject to agreed modifications. The UN Model has no territorial extension article.",
+  "id": 132
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "When may a State normally terminate a treaty under the Models?",
+  "back": "By diplomatic notice after an initial period (five years in the Model text), with effect from the start of the following calendar year (OECD Article 32, UN Article 31).",
+  "id": 133
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What makes a person a treaty resident under Article 4(1)?",
+  "back": "Liability to tax under domestic law by reason of domicile, residence, place of management, place of incorporation or a similar criterion. Persons taxed only on source income are excluded.",
+  "id": 134
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Does an exempt pension fund or charity count as resident under Article 4(1)?",
+  "back": "Usually yes. If domestic law subjects the body to tax in principle, it is 'liable to tax' even though an exemption applies, a view the Commentary supports.",
+  "id": 135
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "List the Article 4(2) tie-breakers for individuals in order.",
+  "back": "Permanent home available, centre of vital interests, habitual abode, nationality, then mutual agreement between competent authorities. Stop at the first test that gives an answer.",
+  "id": 136
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What is the centre of vital interests?",
+  "back": "The State with which an individual's personal and economic relations are closer, looking at family, social ties, occupation, place of business and property administration (Article 4(2)(b)).",
+  "id": 137
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "When does the habitual abode test apply?",
+  "back": "When there is a permanent home in both States or neither, and the centre of vital interests cannot be determined. It looks at the frequency, duration and regularity of stays (Article 4(2)(c)).",
+  "id": 138
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "How does the 2017 OECD Article 4(3) resolve dual residence of a company?",
+  "back": "By mutual agreement of the competent authorities, having regard to place of effective management, place of incorporation and other factors. Without agreement, treaty relief is not available except as agreed.",
+  "id": 139
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What did Article 4(3) say before 2017?",
+  "back": "A dual resident company was resident only in the State of its place of effective management. Many older treaties keep this rule. The UN Model now also uses the competent authority approach.",
+  "id": 140
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does MLI Article 4 do?",
+  "back": "It lets the mutual agreement rule replace the place of effective management tie-breaker in covered treaties. Many States reserved the right to keep POEM.",
+  "id": 141
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "State the Article 5(1) definition of a permanent establishment.",
+  "back": "A fixed place of business through which the business of an enterprise is wholly or partly carried on.",
+  "id": 142
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What three features does the Commentary require for an Article 5(1) PE?",
+  "back": "A place of business, that is fixed (geographically and with permanence), through which the enterprise carries on its business, with the place at the enterprise's disposal.",
+  "id": 143
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Compare the construction PE thresholds in the OECD and UN Models.",
+  "back": "OECD Article 5(3): more than twelve months. UN Article 5(3)(a): more than six months, and it also covers assembly projects and connected supervisory activities.",
+  "id": 144
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What is the UN services PE?",
+  "back": "UN Article 5(3)(b): services, including consultancy, through employees or other personnel for the same or a connected project, lasting more than 183 days in any twelve-month period. The OECD Model text has no counterpart.",
+  "id": 145
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What are the Article 5(4) exceptions and how did BEPS Action 7 change them?",
+  "back": "They cover storage, display, delivery, purchasing and information gathering, and other preparatory or auxiliary activities. Since 2017 each listed activity is excluded only if it is preparatory or auxiliary.",
+  "id": 146
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "State the anti-fragmentation rule in Article 5(4.1).",
+  "back": "The paragraph 4 exception is lost where the enterprise or a closely related enterprise has a PE in the same State, or the combined activities of complementary functions in a cohesive business are not preparatory or auxiliary.",
+  "id": 147
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "State the post-BEPS dependent agent PE test in Article 5(5).",
+  "back": "A person who habitually concludes contracts, or habitually plays the principal role leading to contracts routinely concluded without material modification, in the enterprise's name, for property it owns or may use, or for its services, creates a PE.",
+  "id": 148
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What was the commissionnaire problem and how was it addressed?",
+  "back": "A local firm sold in its own name for an undisclosed principal, so no contract bound the foreign enterprise. The 2017 Article 5(5) wording and MLI Article 12 reach a person who habitually plays the principal role leading to the conclusion of contracts.",
+  "id": 149
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "When is an agent independent under OECD Article 5(6) (UN Model 2025 numbering is also 5(6); 5(7) in UN 2021), and what did 2017 add?",
+  "back": "An agent of independent status acting in the ordinary course of business creates no PE. A person acting exclusively or almost exclusively for closely related enterprises is not independent.",
+  "id": 150
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "Does owning a subsidiary give a company a PE in the subsidiary's State under OECD Article 5(7)?",
+  "back": "No. Control of, or by, a company resident in the other State does not of itself make either company a PE of the other, unless another paragraph such as the dependent agent rule is met on the facts.",
+  "id": 151
+ },
+ {
+  "chapter": 4,
+  "domain": "treaties",
+  "front": "What does MLI Article 14 do for construction PEs?",
+  "back": "It aggregates time spent on connected activities at the same site by closely related enterprises, where each period exceeds 30 days, so that contract splitting cannot avoid the time threshold.",
+  "id": 152
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What are the two functions of Article 7(1) of the OECD and UN Models?",
+  "back": "It is a threshold rule (no PE, no source taxation of business profits) and an attribution rule (where a PE exists the source State may tax only the profits attributable to it). Article 7(1).",
+  "id": 153
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the Authorised OECD Approach (AOA) to attributing profits to a PE?",
+  "back": "The functionally separate entity approach in Article 7(2) of the current OECD text and the 2010 Report: treat the PE as if a distinct and separate enterprise, taking account of functions, assets and risks, and price its dealings at arm's length.",
+  "id": 154
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What are the two steps of the AOA?",
+  "back": "Step 1 is a functional and factual analysis that hypothesises the PE as a separate entity and allocates activities, assets, risks and free capital, recognising dealings. Step 2 prices those dealings by analogy with the OECD Transfer Pricing Guidelines.",
+  "id": 155
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What are 'significant people functions' under the AOA?",
+  "back": "The people functions that carry out the active decision making over risks and assets. They decide which part of the enterprise (and so the PE) assumes the risk and has economic ownership of the asset.",
+  "id": 156
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is 'free capital' in the AOA and why does it matter?",
+  "back": "Equity type funding attributed to the PE to support its assets and risks. The balance of funding is treated as notional debt, so it fixes the PE's deductible notional interest.",
+  "id": 157
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Illustrative: a PE has attributed assets of 500, free capital ratio 20%, notional debt at 5%. What is the notional interest deduction?",
+  "back": "Free capital is 500 x 20% = 100, so notional debt is 400 and the deduction is 400 x 5% = 20. The AOA Report allows several capital attribution methods.",
+  "id": 158
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the corresponding adjustment rule in OECD Article 7(3)?",
+  "back": "Where one State attributes profits to a PE and taxes them and the other State has already taxed those profits, the other State makes an appropriate adjustment to the tax charged, with consultation where necessary (the corresponding adjustment for PE profits).",
+  "id": 159
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How does the UN Model's Article 7(1) differ from the OECD's on profits outside the PE?",
+  "back": "The UN Model has a limited force of attraction: the source State may also tax sales of the same or similar goods and business activities of the same or similar kind made directly in that State. The OECD Model taxes only profits attributable to the PE.",
+  "id": 160
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Is the UN force of attraction rule a full force of attraction?",
+  "back": "No. It reaches only direct sales and activities of the same or similar kind as those of the PE, not all source State profits, and the UN Commentary allows the enterprise to rebut it where the direct dealings could not reasonably have been made through the PE.",
+  "id": 161
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Illustrative: PE sales 1,000 and direct sales of the same kind 400, both at 10% margin. What does State S tax under the OECD and UN Models?",
+  "back": "OECD: 1,000 x 10% = 100 only. UN Article 7(1)(b): 100 plus 400 x 10% = 40, so 140 (unless the direct sales are shown to be ones that could not reasonably have been made through the PE).",
+  "id": 162
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How does UN Article 7 treatment of PE deductions differ from the AOA?",
+  "back": "The UN text allows deduction of expenses incurred for the PE, including executive and general administrative expenses, but denies deduction of certain internal payments (royalties, specific service commissions, non bank interest). The AOA recognises notional dealings priced at arm's length.",
+  "id": 163
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Does the AOA apply automatically to every treaty with an Article 7?",
+  "back": "No. It applies where the treaty follows the post 2010 OECD text; many older treaties use the pre 2010 wording and the AOA is only persuasive guidance for them.",
+  "id": 164
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Which State may tax shipping and air transport profits under OECD Article 8?",
+  "back": "Only the Contracting State of which the enterprise is a resident, for profits from operating ships or aircraft in international traffic (older versions used the place of effective management).",
+  "id": 165
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How do UN Article 8 Alternatives A and B differ?",
+  "back": "Under the UN Model 2021 numbering, Alternative A gave exclusive taxing rights to the State of effective management for ships and aircraft, and Alternative B let the source State also tax shipping profits where its activities were more than casual, with a reduction of the tax. The UN Model 2025 reversed the lettering: Alternative A now lets the source State tax and Alternative B is the OECD style residence only text.",
+  "id": 166
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What activities are included in the OECD Commentary on Article 8 as part of international traffic?",
+  "back": "Ancillary activities that are directly connected with operating the ship or aircraft, such as related ticket sales and short term container leasing. Separate businesses are not covered and fall under Article 7.",
+  "id": 167
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What does Article 9(1) of the OECD and UN Models provide?",
+  "back": "Where conditions between associated enterprises differ from arm's length conditions, profits that would have accrued to one enterprise but for those conditions may be included in its profits and taxed accordingly.",
+  "id": 168
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Does Article 9 itself give a State a power to adjust profits?",
+  "back": "No. It permits and limits adjustments to the arm's length figure, and the adjustment must be made under domestic transfer pricing legislation.",
+  "id": 169
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the corresponding adjustment under Article 9(2)?",
+  "back": "If one State adjusts and taxes profits already taxed in the other, the other State makes an appropriate adjustment to its tax, but only if it agrees the adjustment is justified in principle and amount, with competent authority consultation.",
+  "id": 170
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What does UN Article 9(3) add that the OECD Model lacks?",
+  "back": "It disapplies the paragraph 2 corresponding adjustment where a final legal ruling finds an enterprise liable to penalty for fraud, gross negligence or wilful default in the actions giving rise to the adjustment.",
+  "id": 171
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Illustrative: State R raises a price from 80 to 100 on 10,000 units (R rate 25%, S rate 30%). What do R and S tax and relieve?",
+  "back": "R taxes an extra 200,000 x 25% = 50,000. S has already taxed the same 200,000 at 30% = 60,000, and refunds that 60,000 on a corresponding adjustment, leaving 50,000 of tax in total.",
+  "id": 172
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Why did the UN Model 2021 keep Article 14 when the OECD deleted it? (The UN Model 2025 has deleted it too, replacing it with Article 12AA.)",
+  "back": "To let the source State tax professionals who have a fixed base or stay long periods without a fixed base, which a pure Article 7 and PE test would not allow. The OECD deleted it in 2000 and treats such income under Articles 5 and 7.",
+  "id": 173
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "When may the source State tax independent personal services under UN Article 14 (UN Model 2021 numbering; replaced by Article 12AA in the UN Model 2025)?",
+  "back": "When the individual has a fixed base regularly available there (profits attributable to it), or is present for 183 days or more in a twelve month period commencing or ending in the fiscal year concerned (income from work done there). Some texts add a remuneration threshold test.",
+  "id": 174
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the general rule in Article 15(1)?",
+  "back": "Employment income of a resident of one State may be taxed only there unless the employment is exercised in the other State, in which case the other State may tax the remuneration derived from that work.",
+  "id": 175
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What are the three cumulative conditions of Article 15(2)?",
+  "back": "Presence in the work State not exceeding 183 days in any twelve month period commencing or ending in the fiscal year concerned; remuneration paid by an employer not resident in the work State; and remuneration not borne by a PE of the employer there.",
+  "id": 176
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the correct way to count the 183 days under Article 15(2)(a)?",
+  "back": "By days of physical presence in a rolling twelve month period commencing or ending in the fiscal year concerned, not a single fiscal year. Exactly 183 days passes and 184 fails.",
+  "id": 177
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Illustrative: 92 days in State S in year 1 (Oct to Dec) and 92 days in year 2 (Jan to Apr 1). Is Article 15(2)(a) met?",
+  "back": "No. Both years are under 183, but the twelve month period spanning both holds 184 days, so condition (a) fails and State S may tax the pay for the State S work.",
+  "id": 178
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Who is the 'employer' for Article 15(2)(b) when staff are hired out?",
+  "back": "The economic employer, judged by the OECD Commentary factors: who instructs the individual, controls the workplace, bears responsibility, provides tools, selects and dismisses staff, and has disciplinary power. A host in the work State can be the employer even if a foreign entity pays.",
+  "id": 179
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Which State may tax directors' fees under Article 16?",
+  "back": "The State of residence of the company, for fees paid to a director in that capacity as a member of the board, wherever the director performs the work.",
+  "id": 180
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How does UN Article 16(2) differ from the OECD Article 16?",
+  "back": "It also lets the company's State tax salaries of a resident who holds a top level managerial position in the company. Under the OECD Model a chief executive's pay falls under Article 15, and under Article 16 only for fees received as a board member.",
+  "id": 181
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "Which State may tax entertainers and sportspersons under Article 17(1)?",
+  "back": "The State where the activity is performed, notwithstanding Articles 7 and 15, without any minimum days and without a PE.",
+  "id": 182
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What does Article 17(2) do?",
+  "back": "It lets the performance State tax income from the entertainer's or sportsperson's activities that accrues to another person (such as a star company), notwithstanding Articles 7 and 15, to stop income being diverted.",
+  "id": 183
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How does the exclusion for activities supported by public funds work in Article 17?",
+  "back": "Some treaties, and an option in the OECD Commentary, exclude from Article 17 performances supported substantially by public funds of the home State, such as cultural exchange events, so that those are taxed under other Articles.",
+  "id": 184
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the OECD Article 18 rule on pensions?",
+  "back": "Pensions and similar remuneration paid to a resident in consideration of past employment are taxable only in the State of residence, subject to Article 19(2) for government pensions.",
+  "id": 185
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "How does the UN Model's Article 18 differ from the OECD's?",
+  "back": "The UN Model offers Alternative A (the OECD rule) and Alternative B, which lets the source State also tax pensions paid from it, subject to limits in the treaty. Check the treaty text.",
+  "id": 186
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What is the rule for government service remuneration in Article 19(1)?",
+  "back": "It is taxable only in the paying State, except that the State where the services are rendered has the exclusive right if the individual is resident and a national of that State or did not become resident solely to render the services.",
+  "id": 187
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "When do Articles 15 to 18 apply instead of Article 19?",
+  "back": "Where the remuneration or pension relates to services rendered in connection with a business carried on by a State or its subdivision or local authority (Article 19(3)).",
+  "id": 188
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What conditions must be met for the Article 20 student exemption?",
+  "back": "The student or business apprentice was a resident of the other State immediately before the visit, is present solely for education or training, and the payments for maintenance, education or training arise from sources outside the host State.",
+  "id": 189
+ },
+ {
+  "chapter": 5,
+  "domain": "treaties",
+  "front": "What does UN Article 20(2) add for students?",
+  "back": "Grants, scholarships and employment income not covered by paragraph 1 receive the same exemptions, reliefs or reductions as are available to residents of the State visited, during the education or training.",
+  "id": 190
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does Article 6(1) allow, and is there a rate cap or PE requirement?",
+  "back": "Income from immovable property may be taxed in the State where the property is situated (OECD and UN). There is no rate cap and no PE requirement; the residence State relieves under Article 23A or 23B.",
+  "id": 191
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Which law defines immovable property for Article 6?",
+  "back": "The law of the State where the property is situated (Article 6(2)). The Article adds accessory property, farm livestock and equipment, usufruct, and rights to payments for working natural resources; ships, boats and aircraft are excluded.",
+  "id": 192
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does the UN Article 6(4) differ from the OECD wording?",
+  "back": "The UN text also covers immovable property used for independent personal services, because the UN Model 2021 keeps Article 14 (the UN Model 2025 deleted it and moved it into Article 12AA). The OECD dropped that reference when it deleted Article 14 in 2000.",
+  "id": 193
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Is interest on a loan secured by a mortgage on land Article 6 income?",
+  "back": "No. It is interest under Article 11, because the security does not change the character of the payment. Article 6 covers only income from the direct use, letting or other use of the property.",
+  "id": 194
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "State the OECD Article 10(2) rates and conditions.",
+  "back": "5% of the gross dividend if the beneficial owner is a company (not a partnership) holding directly at least 25% of the capital throughout a 365 day period including the payment day; otherwise 15%.",
+  "id": 195
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does UN Article 10(2) differ from the OECD?",
+  "back": "The structure is the same but the percentages and minimum holding are left in brackets for bilateral negotiation, so there is no default 5% or 15%.",
+  "id": 196
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How is a dividend defined in Article 10(3)?",
+  "back": "Income from shares or other rights, not debt claims, participating in profits, plus income from other corporate rights treated like share income by the law of the State of the distributing company. That State's characterisation therefore decides.",
+  "id": 197
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Where does a dividend fall if the recipient has a PE in the source State and the holding is effectively connected with it?",
+  "back": "Under Article 10(4) the dividend is taxed as business profit under Article 7, not under the Article 10 cap.",
+  "id": 198
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does Article 10(5) prohibit?",
+  "back": "A State may not tax undistributed profits of a non-resident company merely because dividends are paid from profits arising in its territory. It bars extraterritorial taxation of dividends, subject to the PE case.",
+  "id": 199
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What is the beneficial owner test and why was it added to Articles 10, 11 and 12?",
+  "back": "It denies treaty limits to conduits, such as agents or nominees, with very narrow powers over the income. The Commentary reads it in context, not as a narrow technical term, and an obligation to pass the income on points to a conduit.",
+  "id": 200
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What did Prevost Car (Canada, 2008 and 2009) hold?",
+  "back": "A Dutch holding company receiving dividends was the beneficial owner despite the parent's shareholders agreement, because it owned the shares, was entitled to the dividends and was not bound to pass them on.",
+  "id": 201
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What did Indofood v JPMorgan (UK Court of Appeal 2006) hold on beneficial ownership?",
+  "back": "Beneficial owner has an international fiscal meaning, a person with the full privilege to benefit directly from the income. The Dutch conduit, bound to pass the interest on, was not the beneficial owner.",
+  "id": 202
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does MLI Article 8 affect Article 10?",
+  "back": "For covered agreements it imposes the 365 day holding period for the low dividend rate, unless a jurisdiction reserved the Article. It changes the holding duration, not the percentage, and applies only where both have listed the agreement and neither reserved.",
+  "id": 203
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What is the OECD cap on source tax on interest, and how does the UN differ?",
+  "back": "OECD Article 11(2) caps source tax at 10% of the gross interest for a beneficial owner. The UN leaves the rate to bilateral negotiation.",
+  "id": 204
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How is interest defined in Article 11(3), and what is excluded?",
+  "back": "Income from debt claims of every kind, secured or not, with or without profit participation, including government securities, bonds and debentures with premiums and prizes. Late payment penalties and income treated as dividends under Article 10 are excluded.",
+  "id": 205
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What is the source rule for interest in Article 11(5)?",
+  "back": "Interest arises in the State where the payer is resident. If the payer has a PE that incurred the debt and bears the interest, it arises in the PE State.",
+  "id": 206
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does Article 11(6) do when a special relationship inflates the interest?",
+  "back": "Article 11 applies only to the arm's length amount. The excess remains taxable under domestic law, subject to the other treaty provisions, and is not automatically a dividend.",
+  "id": 207
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Which State may tax royalties under OECD Article 12 and which under UN Article 12?",
+  "back": "OECD: the State of residence only (source tax was removed in 1995). UN: both States, with the source State's tax capped at a bilaterally negotiated rate.",
+  "id": 208
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What is the main definitional difference between OECD and UN royalty articles?",
+  "back": "The UN definition includes payments for the use of industrial, commercial or scientific equipment. The OECD deleted equipment rental in 1992, so under it rental is business profit under Article 7.",
+  "id": 209
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does the OECD Commentary treat software payments under Article 12?",
+  "back": "Payment for a copy for the payer's own use is business profit, not a royalty. Payment for rights to reproduce and distribute the software is a royalty, so the line is what rights the payer acquires.",
+  "id": 210
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How is know-how distinguished from a service under Article 12?",
+  "back": "Know-how is existing information passed on to the payer, so it is a royalty. A service is work performed by the provider, so it is business profit. Mixed contracts are apportioned unless one part is ancillary and minor.",
+  "id": 211
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What did Velcro Canada v The Queen (Tax Court of Canada 2012) decide?",
+  "back": "A Dutch group company receiving royalties from Canada was the beneficial owner and entitled to treaty benefit, even though much was passed on, because on the facts it was not a mere agent or conduit.",
+  "id": 212
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does UN Article 12A cover and when was it added?",
+  "back": "UN Model 2021 numbering (replaced by Article 12AA in the UN Model 2025). Added in 2017, it lets the source State tax fees for managerial, technical or consultancy services, with a bracketed rate cap on the gross amount. It excludes payments to employees and certain other payments, so check the exclusions.",
+  "id": 213
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Why does UN Article 12A (2021 numbering; Article 12AA in the UN Model 2025) matter compared with Article 5(3)(b) UN and Article 7?",
+  "back": "It taxes service fees at source without a PE and without a minimum time test. Under the OECD Model a service fee is business profit taxable at source only if a PE exists.",
+  "id": 214
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Does the OECD Model contain an equivalent of UN Article 12A (2021 numbering; Article 12AA in the UN Model 2025)?",
+  "back": "No. Under the OECD Model service fees are business profits under Article 7 and are taxable at source only through a PE.",
+  "id": 215
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does UN Article 12B cover and when was it added?",
+  "back": "Added in 2021, it lets the source State tax income from automated digital services, such as online advertising, platforms, cloud computing and online gaming, at a bracketed rate on the gross amount.",
+  "id": 216
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What is the net basis option under Article 12B?",
+  "back": "The recipient may elect to be taxed in the source State on qualified profits, computed from the ADS revenue using the relevant group segment margin and a fixed percentage set in the Article, avoiding high effective rates on low-margin businesses.",
+  "id": 217
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Why might a State use Article 12B instead of waiting for Pillar One Amount A?",
+  "back": "Article 12B is a bilateral clause, available once written into a treaty, with no group revenue threshold. Amount A is a multilateral reallocation for very large groups only.",
+  "id": 218
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Which gains does OECD Article 13(1) allow the situs State to tax?",
+  "back": "Gains from the alienation of immovable property as defined in Article 6 situated in that State. Article 13(2) similarly allows PE State taxation of movable business property of a PE.",
+  "id": 219
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "State the land-rich shares rule in OECD Article 13(4).",
+  "back": "Gains on shares or comparable interests, such as partnership or trust interests, may be taxed in the other State if, at any time in the 365 days before the sale, they derived more than 50% of their value directly or indirectly from immovable property there.",
+  "id": 220
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What changed in Article 13(4) in 2017?",
+  "back": "BEPS Action 6 added the 365 day look-back period and extended the rule to comparable interests such as partnership and trust interests. Before, only the value at the time of sale mattered.",
+  "id": 221
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Why does 'at any time during the 365 days' matter in Article 13(4)?",
+  "back": "One date above 50% is enough for the source State to tax. A vendor cannot rely on the value at the sale date alone and must show the line was never crossed.",
+  "id": 222
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does the UN Article 13 differ from the OECD on share gains?",
+  "back": "The UN adds a substantial shareholding rule: the State where the company is resident may tax gains on its shares if the alienator held at least a bracketed percentage at any time in the 365 days before sale, even if the company is not land-rich.",
+  "id": 223
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "Which State taxes gains on property not covered by Article 13(1) to (4) under the OECD Model?",
+  "back": "Under Article 13(5) only the State of residence of the alienator taxes them. The UN Model 2021 gives the same residual rule in its Article 13(6); in the UN Model 2025 it is Article 13(8).",
+  "id": 224
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What was decided in Vodafone International Holdings v Union of India (2012)?",
+  "back": "The India Supreme Court held an offshore transfer of a holding company with an Indian subsidiary was not taxable in India under the law then in force. India later legislated retrospectively and subsequently repealed that rule.",
+  "id": 225
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does OECD Article 22 allow on capital?",
+  "back": "The situs State may tax capital in immovable property (22(1)), the PE State capital in PE business property (22(2)), ships and aircraft in international traffic are taxed only as under Article 8 (22(3)), and all other capital only in the residence State (22(4)).",
+  "id": 226
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "How does UN Article 22 differ from the OECD?",
+  "back": "The UN gives two alternatives. Alternative A follows the OECD; Alternative B adds source taxation of capital represented by shares in certain cases, on lines like the Article 13 substantial holding rule.",
+  "id": 227
+ },
+ {
+  "chapter": 6,
+  "domain": "treaties",
+  "front": "What does OECD Article 21 provide for other income, and how does the UN differ?",
+  "back": "Under the OECD, income not dealt with elsewhere is taxable only in the residence State, wherever arising, subject to the PE rule in 21(2). UN Article 21(3) adds that such income arising in the other State may also be taxed there.",
+  "id": 228
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is treaty shopping?",
+  "back": "A person not entitled to the treaty between two States routes income through an entity resident in a third State to obtain that State's treaty benefits, often via a conduit with little substance. It is the main target of BEPS Action 6 and of Article 29 (OECD and UN Models).",
+  "id": 229
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "List the families of response to treaty abuse.",
+  "back": "Specific distributive rules such as beneficial ownership; limitation on benefits (LOB) rules; general anti-abuse rules such as the principal purpose test (PPT); and domestic anti-abuse rules applied to treaty cases. The Commentary on Article 1 accepts that domestic rules do not in principle conflict with treaties.",
+  "id": 230
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is the argument against applying a domestic anti-abuse rule to treaty benefits?",
+  "back": "That applying a domestic rule to deny a treaty benefit is a treaty override unless the treaty permits it. The Commentary on Article 1 answers this by saying treaties do not oblige a State to grant benefits to abusive arrangements, and a PPT in the treaty largely removes the dispute.",
+  "id": 231
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What are the two parts of the BEPS Action 6 minimum standard?",
+  "back": "A preamble statement that the States intend to eliminate double taxation without creating opportunities for non-taxation or reduced taxation through evasion or avoidance, including treaty shopping, and protection against treaty shopping by one of three routes. Implementation is peer reviewed.",
+  "id": 232
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What are the three routes to meet the Action 6 treaty shopping standard?",
+  "back": "(1) A PPT alone; (2) a PPT supplemented by a simplified or detailed LOB; or (3) a detailed LOB supplemented by a mechanism dealing with conduit arrangements.",
+  "id": 233
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "State the principal purpose test.",
+  "back": "A benefit is denied if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining it was one of the principal purposes of any arrangement or transaction that resulted in it, unless granting it would accord with the object and purpose of the relevant provisions. It appears in OECD Article 29(9) and MLI Article 7(1).",
+  "id": 234
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Who bears the burden under the second limb of the PPT, and what must be shown?",
+  "back": "The taxpayer. It must establish that granting the benefit in the circumstances would be in accordance with the object and purpose of the relevant treaty provisions, for example by showing real substance and commercial reasons.",
+  "id": 235
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "How does OECD Article 29 differ from the UN Model's Article 29?",
+  "back": "The OECD Article 29 contains a detailed LOB (qualified persons, active business, derivative benefits, discretionary relief) plus a PPT. The UN Model Article 29 is also a qualified person LOB supplemented by a PPT; compare the detail of the qualified person tests in the edition used.",
+  "id": 236
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Compare an LOB rule and the PPT.",
+  "back": "The LOB is mechanical and certain, testing who the claimant is and who owns it, but can deny genuine investors and still allows artificial use by qualified persons. The PPT tests purpose, catching arrangements no list anticipates, but gives less certainty.",
+  "id": 237
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 23A provide?",
+  "back": "The exemption method: the residence State exempts income taxable in the other State under the treaty, but may take it into account in setting the rate on other income (paragraph 3, progression). Paragraph 2 gives credit for dividends and interest. The UN Model is the same.",
+  "id": 238
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 23B provide and how is the credit limited?",
+  "back": "The credit method: the residence State deducts the tax paid in the other State, limited to the part of its own tax, computed before credit, attributable to the income taxable in the other State. Excess foreign tax is lost unless domestic law allows a carry forward.",
+  "id": 239
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 23A(4) do?",
+  "back": "It lets the residence State decline to exempt income, and use credit instead, where the source State applies the treaty to exempt the income or limit its rate, resolving a conflict of qualification and avoiding double non-taxation.",
+  "id": 240
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Compute the credit: State R tax rate 25%, domestic profit 800, State S branch profit 200 taxed at 30% in State S.",
+  "back": "Foreign tax is 60 but the limit is 200 x 25% = 50, so the credit is 50. State R tax is 250 minus 50 = 200, and total tax is 260, leaving 10 of unrelieved foreign tax (Article 23B).",
+  "id": 241
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Which neutrality does the credit method support and which does exemption support?",
+  "back": "Credit supports capital export neutrality (same total tax at home or abroad); exemption supports capital import neutrality (all investors in the source State taxed alike). Neither is fully achieved because of credit limits and deferral.",
+  "id": 242
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is exemption with progression?",
+  "back": "The exempt income is excluded from the base but taken into account in fixing the rate on the remaining income (Article 23A(3)). With 60,000 taxable and 40,000 exempt, and an average rate of 30% on 100,000, tax is 60,000 x 30% = 18,000.",
+  "id": 243
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Whom does Article 24(1) protect, and what is the comparator?",
+  "back": "Nationals of one State in the other State, compared with nationals of the other State in the same circumstances, in particular with respect to residence. It is a nationality test, not a residence test.",
+  "id": 244
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 24(3) require for a permanent establishment?",
+  "back": "A permanent establishment of an enterprise of one State in the other State must not be less favourably taxed than enterprises of that State carrying on the same activities, though there is no duty to grant personal allowances to non-residents.",
+  "id": 245
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 24(4) require and what is excepted?",
+  "back": "Interest, royalties and other disbursements paid to a resident of the other State must be deductible on the same conditions as if paid to a resident. The exception is the special relationship rules in Articles 9(1), 11(6) and 12(4).",
+  "id": 246
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "State the time limit and starting point for a MAP case under Article 25(1).",
+  "back": "The case must be presented within three years of the first notification of the action resulting in taxation not in accordance with the treaty, to the competent authority of either State (OECD 2017), irrespective of domestic remedies.",
+  "id": 247
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "Is the competent authority obliged to resolve a MAP case?",
+  "back": "No. Article 25(2) requires it to endeavour to resolve the case by mutual agreement if the objection appears justified, an obligation of conduct and not of result. Agreements are implemented despite domestic time limits.",
+  "id": 248
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does Article 25(5) of the OECD Model provide?",
+  "back": "Where the competent authorities cannot agree within two years of the date all required information has been provided to both and the person requests in writing, unresolved issues go to arbitration; the decision binds both States unless a person directly affected does not accept it.",
+  "id": 249
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "How does the UN Model treat arbitration in MAP?",
+  "back": "Its Article 25 has Alternative A (no arbitration) and Alternative B, which adds arbitration in paragraph 5 after three years if either competent authority requests it, reflecting the reluctance of many States to accept mandatory arbitration. The OECD gives the request to the person after two years.",
+  "id": 250
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What are the elements of the BEPS Action 14 minimum standard?",
+  "back": "Preventing disputes; making MAP available and accessible; resolving cases in a timely way, with a 24 month target average; and implementing MAP agreements. It is peer reviewed and does not require arbitration.",
+  "id": 251
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is the role of BEPS Action 15?",
+  "back": "It concluded that a multilateral instrument was feasible and launched the negotiation that produced the MLI, whose content draws on Actions 2, 6, 7 and 14.",
+  "id": 252
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is the form of arbitration by default under the OECD Model and MLI?",
+  "back": "Final offer arbitration: each competent authority submits one proposed resolution and the panel chooses one. The MLI allows independent opinion arbitration as an alternative choice.",
+  "id": 253
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "When was the MLI opened for signature and when did it enter into force?",
+  "back": "It was opened for signature on 31 December 2016, first signed at a ceremony in Paris on 7 June 2017, and entered into force on 1 July 2018.",
+  "id": 254
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "How does the MLI change a bilateral treaty?",
+  "back": "It does not amend the text. It modifies the application of a Covered Tax Agreement, a treaty both States have listed, and operates alongside it, so the treaty, the MLI and both States' positions must be read together.",
+  "id": 255
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is the status of the Explanatory Statement and synthesised texts?",
+  "back": "The Explanatory Statement was agreed by the negotiators and is the official guide to the MLI and an aid to interpretation, though not part of it. Synthesised texts are unofficial and carry no legal authority.",
+  "id": 256
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What is matching under the MLI?",
+  "back": "A provision modifies a Covered Tax Agreement only where both States' positions match: the same minimum standard, both choosing an optional provision, or the same or compatible choice among alternatives.",
+  "id": 257
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What do MLI Articles 3 and 4 do?",
+  "back": "Article 3 treats income of a transparent entity as income of a resident only to the extent the State treats it as its resident's income. Article 4 sends dual resident entities to the competent authorities, and without agreement they receive no treaty relief except as agreed.",
+  "id": 258
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does MLI Article 5 do?",
+  "back": "It offers three options, A, B and C, for exemption States, replacing exemption with credit in situations where the source State exempts or limits tax under the treaty, to avoid double non-taxation.",
+  "id": 259
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "How does MLI Article 7 implement the Action 6 minimum standard?",
+  "back": "The PPT in paragraph 1 is the default; a State may add the simplified LOB only if all parties choose it. Paragraph 4 allows discretionary relief, and a State with a suitable bilateral LOB and conduit rule may reserve against the PPT.",
+  "id": 260
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What do MLI Articles 8 and 9 require?",
+  "back": "Article 8 requires a 365 day holding period, including the payment day, for the reduced dividend rate. Article 9 applies a 365 day look back to the test of whether shares derive more than 50% of value from immovable property.",
+  "id": 261
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What does MLI Article 12 do?",
+  "back": "It extends the agency permanent establishment rule to a person who habitually plays the principal role leading to contracts routinely concluded without material modification, and narrows the independent agent exclusion for agents acting almost exclusively for closely related enterprises.",
+  "id": 262
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What are MLI Articles 13 and 14 about?",
+  "back": "Article 13 offers options A and B on specific activity exemptions and an anti-fragmentation rule; Article 14 aggregates connected periods of closely related enterprises to counter contract splitting below the 30 day site threshold.",
+  "id": 263
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What are MLI Articles 16 and 17?",
+  "back": "Article 16 implements the Action 14 minimum standard on MAP, including the three year time limit and implementation despite domestic limits. Article 17 provides corresponding adjustments where the treaty lacks such a provision.",
+  "id": 264
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "When does MLI mandatory binding arbitration apply?",
+  "back": "Only under Part VI (Articles 18 to 26), and only between States that both chose it. If a MAP case is unresolved two years from its start date (three years where a Party has reserved), the person may request arbitration; the default is final offer.",
+  "id": 265
+ },
+ {
+  "chapter": 7,
+  "domain": "treaties",
+  "front": "What do MLI Articles 28 and 29 govern?",
+  "back": "Article 28 permits only reservations that the MLI expressly allows, protecting the minimum standards. Article 29 requires notification to the depositary of Covered Tax Agreements and of the options chosen.",
+  "id": 266
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What did the BEPS Action 1 final report (2015) conclude about ring-fencing the digital economy?",
+  "back": "It concluded the digital economy cannot be ring-fenced because the whole economy is digitalising. It examined a significant economic presence nexus, a withholding tax on digital transactions and an equalisation levy, but recommended none as an international standard, leaving states free to adopt them in domestic law subject to treaty obligations.",
+  "id": 267
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Why can an online seller with no premises in State R escape income tax there under OECD Articles 5 and 7?",
+  "back": "Article 7 allows State R to tax business profits only if the enterprise has a PE there under Article 5, which needs a fixed place of business or a dependent agent. Sales through a website with staff, servers and IP elsewhere usually create neither.",
+  "id": 268
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How did the 2017 OECD Model changes to Article 5(4) and 5(5) respond to digital and fragmented structures?",
+  "back": "Article 5(4) exemptions now apply only if the activity is genuinely preparatory or auxiliary, with an anti-fragmentation rule. Article 5(5) treats a person habitually concluding contracts, or playing the principal role leading to them, as a dependent agent, which targets commissionaire arrangements.",
+  "id": 269
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What do the OECD International VAT/GST Guidelines recommend for B2C cross-border supplies of services and intangibles?",
+  "back": "Tax in the jurisdiction of the consumer's usual residence, with the non-resident supplier registering and collecting there under a simplified regime. For B2B supplies the place of taxation is the customer's business establishment, usually via the reverse charge.",
+  "id": 270
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the Platform for Collaboration on Tax and what does it produce?",
+  "back": "A joint initiative of the IMF, OECD, UN and World Bank Group, launched in 2016, that coordinates support for developing countries and issues practical toolkits (for example on offshore indirect transfers and tax incentives). It sets no binding rules.",
+  "id": 271
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How does the Platform for Collaboration on Tax differ from the UN Committee of Experts?",
+  "back": "The Committee is a standard setter for the UN Model and its guidance, made up of 25 experts serving in a personal capacity. The Platform is a four-organisation coordination body that produces practical toolkits and capacity support, not model provisions.",
+  "id": 272
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the UN Committee of Experts on International Cooperation in Tax Matters?",
+  "back": "A 25-member subsidiary body of ECOSOC, created in 2004 to replace the earlier Ad Hoc Group, whose members serve in their personal capacity. It maintains the UN Model and its Commentary and produces guidance such as the transfer pricing manual and the treaty negotiation manual.",
+  "id": 273
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the purpose of UN Model Article 12B?",
+  "back": "It allows the payer's state to tax income from automated digital services paid to a non-resident, at an agreed rate on gross revenue or, at the taxpayer's election, on a net basis at a fixed percentage of qualified profit. The OECD Model has no equivalent.",
+  "id": 274
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Name three source-oriented features of the UN Model compared with the OECD Model.",
+  "back": "The services PE in Article 5(3)(b) (183 days in 12 months), wider source taxation of royalties and fees (Articles 12 and 12A in the UN Model 2021 numbering, now 12AA in the UN Model 2025), and Article 13(5) on gains on substantial shareholdings. Article 7 also keeps a limited force of attraction rule.",
+  "id": 275
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What does the 2025 UN Model update add, as at 2026?",
+  "back": "Described in the Committee's work: a natural resources article (5A), a services article (12AA) replacing Articles 12A and 14, an insurance premiums article (12C) replacing Article 5(6), and a subject to tax provision in Article 1(3). Check the published text for article detail.",
+  "id": 276
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What process produced the UN Framework Convention on International Tax Cooperation?",
+  "back": "General Assembly Resolutions 77/244 (2022) and 78/230 (2023) started it, terms of reference were adopted in 2024, and an Intergovernmental Negotiating Committee negotiates the convention.",
+  "id": 277
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Which two early protocols are being negotiated alongside the UN Framework Convention?",
+  "back": "One on the taxation of income from cross-border services in a digitalised and globalised economy, and one on the prevention and resolution of tax disputes.",
+  "id": 278
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What was the status of the UN Framework Convention as at 2026?",
+  "back": "Under negotiation: drafts of the convention and two early protocols were released in July 2026 and discussed at the fifth INC session (ended 13 August 2026), with open disagreements, a sixth session in Nairobi from 30 November 2026 and final texts targeted for 2027. It is not yet in force.",
+  "id": 279
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the minimum rate and scope threshold of the GloBE rules?",
+  "back": "A 15% minimum effective tax rate applying to groups with consolidated revenue of at least EUR 750 million in at least two of the four preceding fiscal years.",
+  "id": 280
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the income inclusion rule (IIR) and how does it apply in a chain?",
+  "back": "The main GloBE charging rule: a parent entity pays top-up tax on the low taxed income of its constituent entities. It applies top down, so the ultimate parent applies it first and, if it does not, the next intermediate parent does.",
+  "id": 281
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the UTPR and how is its top-up tax allocated?",
+  "back": "The backstop charging rule, applying where low taxed income is not brought into charge by an IIR. The top-up tax is allocated among UTPR jurisdictions by a key based on employees and tangible assets, and collected by denying deductions or an equivalent adjustment.",
+  "id": 282
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is a qualified domestic minimum top-up tax (QDMTT) and why does it matter?",
+  "back": "A domestic top-up tax on the low taxed profits of entities located in a jurisdiction, creditable against IIR and UTPR top-up tax. It lets the source jurisdiction collect the tax first rather than another state.",
+  "id": 283
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "In what order do the QDMTT, IIR and UTPR operate?",
+  "back": "QDMTT first (source state collects), then the IIR top down, then the UTPR as the backstop. QDMTT paid reduces the top-up tax under the other two.",
+  "id": 284
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How is GloBE income computed?",
+  "back": "Start with the financial accounting net income or loss in the consolidated accounts, then apply the Model Rules adjustments (for example excluded dividends and equity gains, policy disallowed expenses such as fines, and arm's length transfer pricing adjustments).",
+  "id": 285
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Which taxes are covered taxes for GloBE?",
+  "back": "Taxes on income or profits, taxes imposed instead of them (such as certain withholding taxes), and taxes on retained earnings and corporate equity. VAT, payroll and property taxes are not covered.",
+  "id": 286
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How is the GloBE jurisdictional ETR calculated?",
+  "back": "Total adjusted covered taxes of all constituent entities in the jurisdiction divided by their total net GloBE income. Entities in one jurisdiction are blended.",
+  "id": 287
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the top-up tax percentage and how does the substance based income exclusion affect the tax?",
+  "back": "The top-up percentage is 15% minus the jurisdictional ETR. It applies to excess profit, which is net GloBE income less the SBIE (a percentage of eligible payroll and tangible assets).",
+  "id": 288
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What are the SBIE percentages in the first year of the GloBE rules?",
+  "back": "10% of eligible payroll costs and 8% of eligible tangible assets, declining over ten years to 5% of each.",
+  "id": 289
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Compute: net GloBE income 200, adjusted covered taxes 20, SBIE 12. What is the top-up tax?",
+  "back": "ETR 20 ÷ 200 = 10%, top-up percentage 5%, excess profit 200 − 12 = 188, top-up tax 188 × 5% = 9.4.",
+  "id": 290
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the de minimis exclusion in the GloBE rules?",
+  "back": "A jurisdiction is excluded if the group's average GloBE revenue there is below EUR 10 million and average GloBE income is below EUR 1 million.",
+  "id": 291
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How does the transitional CbCR safe harbour work?",
+  "back": "For early years no top-up tax arises in a jurisdiction if qualified CbCR data meets a de minimis test, a simplified ETR test (15% for 2023 and 2024, 16% for 2025, 17% for 2026) or a routine profits test. The January 2026 package extends it by one year, to fiscal years beginning on or before 31 December 2027.",
+  "id": 292
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What was agreed on 5 January 2026 in the side-by-side package?",
+  "back": "The Inclusive Framework agreed a package including a side-by-side system for groups with parents in jurisdictions with qualifying regimes (designed for the United States), a simplified ETR safe harbour, a substance based tax incentive safe harbour and a one-year transitional CbCR extension, with further anti-arbitrage work.",
+  "id": 293
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the criticism of the side-by-side system?",
+  "back": "It departs from the common approach with uniform application, favouring groups parented in certain jurisdictions and adding complexity. Supporters say it keeps Pillar Two operating and preserves the consensus.",
+  "id": 294
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the subject to tax rule (STTR)?",
+  "back": "A Pillar Two treaty rule letting a developing source state tax certain intragroup payments (interest, royalties and other defined payments) where the payee's nominal rate is below 9%, up to the difference between 9% and that rate.",
+  "id": 295
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How does the STTR differ from the GloBE rules in benchmark and legal form?",
+  "back": "The STTR uses a 9% benchmark on a payment and is applied by the source state through treaties. GloBE uses 15% on a jurisdictional ETR and is applied through domestic law (IIR, UTPR, QDMTT).",
+  "id": 296
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Compute STTR tax: interest 1,000, payee's nominal rate 3%. What may the source state tax?",
+  "back": "Top-up percentage 9% − 3% = 6%, so the source state may tax 6% × 1,000 = 60, within any treaty limit.",
+  "id": 297
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How does an STTR tax interact with GloBE?",
+  "back": "It is treated as a covered tax of the payee, so it reduces any IIR or UTPR top-up tax for the payee's jurisdiction.",
+  "id": 298
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is the STTR Multilateral Convention and its status as at 2026?",
+  "back": "The Multilateral Convention to Facilitate the Implementation of the Pillar Two Subject to Tax Rule, opened for signature in 2024, lets parties apply the STTR to existing treaties without bilateral renegotiation. San Marino ratified first in 2025 and Albania's ratification as second (September 2026) brings it into force from 1 January 2027 according to the OECD; verify the parties on the depositary page.",
+  "id": 299
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is Amount A and what is its scope?",
+  "back": "A Pillar One right reallocating part of the profits of the largest groups to market jurisdictions without physical presence: groups with revenue above EUR 20 billion and profitability above 10%, excluding extractives and regulated financial services.",
+  "id": 300
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "How much profit does Amount A reallocate and on what nexus?",
+  "back": "25% of profit above 10% of revenue, allocated to jurisdictions where the group has at least EUR 1 million of revenue (EUR 250,000 where GDP is below EUR 40 billion), using a revenue sourcing key.",
+  "id": 301
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "Compute: revenue 100 billion, profit before tax 15 billion. What is the Amount A pool?",
+  "back": "Residual profit 15 − 10 = 5 billion; 25% × 5 = 1.25 billion. A market with 4% of sourced revenue receives 0.05 billion.",
+  "id": 302
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What is Amount B?",
+  "back": "A simplified and streamlined approach to the arm's length principle for baseline marketing and distribution activities, using a pricing matrix by industry grouping and asset and expense intensity. It is in an annex to Chapter IV of the OECD Transfer Pricing Guidelines.",
+  "id": 303
+ },
+ {
+  "chapter": 8,
+  "domain": "treaties",
+  "front": "What was the status of Pillar One and the Amount A Multilateral Convention as at 2026?",
+  "back": "The text was stabilised but the convention has not been finalised, members could not agree on mandatory Amount B, and the United States withdrew support in 2025. Pillar One is stalled, so the DST standstill is uncertain.",
+  "id": 304
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Why do states regulate transfer pricing?",
+  "back": "Prices set between associated enterprises are not tested by the market and decide which state taxes the profit, so states reallocate profit to match economic activity under the arm's length principle (Article 9(1), OECD and UN Models).",
+  "id": 305
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "State the arm's length principle.",
+  "back": "Associated enterprises are taxed as if they were independent, by comparing their conditions with those independent enterprises would have agreed in comparable circumstances (Article 9(1)).",
+  "id": 306
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Give two arguments for and two against the arm's length principle.",
+  "back": "For: it treats group and stand-alone businesses alike and has the widest treaty acceptance. Against: comparables often do not exist for unique intangibles, and it ignores group synergies while being costly to administer.",
+  "id": 307
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is formulary apportionment?",
+  "back": "Combined group profit is computed as one enterprise and divided between states by a formula, usually sales, assets and payroll. It is used between sub-national units such as US states but not as the basis of the OECD or UN Models.",
+  "id": 308
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is the main weakness of formulary apportionment internationally?",
+  "back": "It needs multilateral agreement on the base, factors and weights, otherwise double taxation or non-taxation arises, and the factors are arbitrary and can be planned around.",
+  "id": 309
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "How is Pillar One Amount A related to formulary approaches?",
+  "back": "Amount A is a formula-based reallocation of part of the residual profit of the very largest groups; it is a targeted addition and does not replace arm's length pricing for ordinary transactions. Its multilateral convention was never opened for signature.",
+  "id": 310
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is the US statutory basis for transfer pricing and its intangibles standard?",
+  "back": "Section 482 of the Internal Revenue Code allows the allocation of income between commonly controlled businesses; for intangibles it applies a 'commensurate with income' standard allowing later adjustment to actual income.",
+  "id": 311
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "How does UK law relate to the OECD Guidelines?",
+  "back": "Part 4 of TIOPA 2010 must be read consistently with the OECD Transfer Pricing Guidelines, giving them legislative weight as an interpretive aid.",
+  "id": 312
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What distinctive feature does German practice have for cross-border moves of business functions?",
+  "back": "The rules on transfer of functions (Funktionsverlagerung) price the whole package of functions, assets and profit potential moved, not just individual assets.",
+  "id": 313
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What distinctive power does Australian transfer pricing law give the Commissioner?",
+  "back": "Division 815 allows reconstruction of an arrangement independent parties would not have entered into, and is expressed to be applied consistently with the OECD Guidelines.",
+  "id": 314
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What does Article 9(1) do and does it create a charge?",
+  "back": "It allows profits that would have accrued but for non-arm's length conditions between associated enterprises to be included in an enterprise's profits. The charging power is domestic law; Article 9 confirms and limits it.",
+  "id": 315
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "When are two enterprises associated under Article 9?",
+  "back": "When one participates directly or indirectly in the management, control or capital of the other, or the same persons do so for both.",
+  "id": 316
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What does Article 9(2) require?",
+  "back": "The other state must make an appropriate corresponding adjustment to the tax on profits already taxed there, but only if it agrees the primary adjustment is justified in principle and amount; competent authorities consult if needed.",
+  "id": 317
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is the difference between a primary and a corresponding adjustment?",
+  "back": "A primary adjustment increases profit in one state, creating economic double taxation; a corresponding adjustment in the other state reduces its profit or tax to relieve it (Article 9(2)).",
+  "id": 318
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is UN Model Article 9(3)?",
+  "back": "It denies the corresponding adjustment under Article 9(2) where a final ruling shows an enterprise is liable to penalty for fraud, gross negligence or wilful default. The OECD Model has no equivalent.",
+  "id": 319
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "How is a corresponding adjustment pursued if the states disagree?",
+  "back": "Through the mutual agreement procedure in Article 25. OECD Article 25(5): arbitration after two years if the person requests it in writing. UN Model: optional Article 25 Alternative B, arbitration after three years if either competent authority requests it.",
+  "id": 320
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Distinguish unilateral, bilateral and multilateral APAs.",
+  "back": "Unilateral: taxpayer and one authority, certainty in one state only. Bilateral: two competent authorities under the MAP article, avoids double taxation. Multilateral: three or more authorities.",
+  "id": 321
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What are critical assumptions in an APA?",
+  "back": "Facts on which the agreement rests; a material change allows revision or cancellation.",
+  "id": 322
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Which five methods are in OECD Guidelines Chapter II?",
+  "back": "CUP, resale price and cost plus (traditional transaction methods), and TNMM and profit split (transactional profit methods).",
+  "id": 323
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is the 'most appropriate method' rule?",
+  "back": "Choose the method best suited to the facts given the functional analysis, data reliability and comparability; where a traditional method and a profit method are equally reliable, prefer the traditional method.",
+  "id": 324
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Describe the CUP method and when it is reliable.",
+  "back": "It compares the controlled price with the price in a comparable uncontrolled transaction. It is most direct but needs close product and contract similarity; internal comparables are best.",
+  "id": 325
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Describe the resale price method.",
+  "back": "Start with the resale price to an independent party and deduct an arm's length gross margin (and other costs) to reach the purchase price. It suits distributors adding little value.",
+  "id": 326
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Describe the cost plus method.",
+  "back": "Take the supplier's costs in the controlled transaction and add an arm's length mark-up. It suits contract manufacturers and service providers.",
+  "id": 327
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What does TNMM compare, and who is the tested party?",
+  "back": "The tested party's net profit indicator (for example operating margin) with that of comparable independent enterprises. The tested party should be the simplest one, with no unique intangibles.",
+  "id": 328
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "When is the profit split method appropriate?",
+  "back": "When each party makes unique and valuable contributions, operations are highly integrated, or the parties share assumption of economically significant risks (2018 guidance); split by contribution or residual analysis.",
+  "id": 329
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What are the five comparability factors?",
+  "back": "Characteristics of property or services, functional analysis, contractual terms, economic circumstances, and business strategies (Chapter III).",
+  "id": 330
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "How is the interquartile range used and where is the adjustment made?",
+  "back": "It narrows a range with comparability defects to the 25th to 75th percentile; a result outside it is usually adjusted to the median, though some states adjust to the nearest edge.",
+  "id": 331
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "TNMM test: sales 40,000,000, operating profit 1,200,000, comparable median margin 4.5% and interquartile range 3.3% to 5.65%. What is the adjustment?",
+  "back": "Actual margin is 3.0%, below the range. Profit at the median is 1,800,000, so the adjustment is 600,000.",
+  "id": 332
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Cost plus: costs 12,500,000, median mark-up 8%. What is the price?",
+  "back": "12,500,000 × 1.08 = 13,500,000.",
+  "id": 333
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "Who is entitled to intangible profit after BEPS Action 8?",
+  "back": "Not automatically the legal owner: entitlement follows the DEMPE functions performed, assets used and risks controlled; other contributors are compensated at arm's length.",
+  "id": 334
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What does DEMPE stand for?",
+  "back": "Development, enhancement, maintenance, protection and exploitation of an intangible (OECD Guidelines Chapter VI).",
+  "id": 335
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What are hard to value intangibles and what is the special rule?",
+  "back": "Intangibles with no reliable comparables and highly uncertain projections at transfer. Tax administrations may use ex post results as presumptive evidence of the ex ante price, subject to exemptions in paragraph 6.193 such as a qualifying APA, a gap of no more than 20% of the compensation, or five years of commercialisation with a gap of no more than 20% of projections.",
+  "id": 336
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What return does a funder get if it does not control the financial risk?",
+  "back": "Only a risk-free return on its funding, not the residual profit of the project (Chapter I, Chapter VI).",
+  "id": 337
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is the benefit test for intra-group services?",
+  "back": "Whether an independent enterprise in comparable circumstances would have paid for the service or performed it itself; shareholder activities and duplicative services give no chargeable benefit (Chapter VII).",
+  "id": 338
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "How does the low value adding services simplified approach work?",
+  "back": "Pool the relevant costs without shareholder items, allocate by a reasonable key, and add a 5% mark-up without benchmarking. Pool 700,000 gives a charge of 735,000.",
+  "id": 339
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What is a cost contribution arrangement?",
+  "back": "A contractual arrangement to share the contributions and risks of developing assets, services or rights, where each participant's contribution is proportionate to its expected benefit, measured at value with balancing payments (Chapter VIII).",
+  "id": 340
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What risks do safe harbours carry according to the Guidelines?",
+  "back": "Results may depart from arm's length, the other state may not accept them (double taxation), and they invite planning; they are suited to smaller taxpayers and simpler transactions (Chapter IV).",
+  "id": 341
+ },
+ {
+  "chapter": 9,
+  "domain": "tp",
+  "front": "What are the six steps of the risk analysis framework (BEPS Action 9)?",
+  "back": "Identify economically significant risks; contractual assumption; functional analysis of control and mitigation; interpret steps 1 to 3 (control plus financial capacity); allocate the risk; price the transaction.",
+  "id": 342
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What does Article 9(2), OECD and UN Models, require of the second state?",
+  "back": "It must make an appropriate corresponding adjustment if it agrees the first state's adjustment is justified in principle and as to amount; the competent authorities consult if necessary. It is not automatic.",
+  "id": 343
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Within what period must a MAP case be presented under Article 25(1)?",
+  "back": "Within three years of the first notification of the action giving rise to taxation not in accordance with the treaty, under the Model text (bilateral treaties vary, so check each one).",
+  "id": 344
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is the duty of the competent authorities under Article 25(2)?",
+  "back": "To endeavour to resolve the case by mutual agreement if the objection appears justified and they cannot solve it unilaterally. It is a duty of means, not of result.",
+  "id": 345
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "When does OECD Article 25(5) allow arbitration?",
+  "back": "If the competent authorities cannot resolve the case within two years from the date all required information has been provided to both, the unresolved issues go to arbitration at the request of the person who presented the case.",
+  "id": 346
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "How does the UN Model treat arbitration in Article 25?",
+  "back": "It offers two alternatives: Alternative A has no arbitration; Alternative B provides arbitration, if either competent authority so requests, where the competent authorities cannot agree within three years. States choose.",
+  "id": 347
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Which areas make up the BEPS Action 14 minimum standard on resolving treaty disputes (preventing disputes, MAP access, timely resolution and implementation)?",
+  "back": "Prevent disputes, make MAP available and accessible, resolve cases in a timely manner (average target of 24 months, a target not a deadline, with MAP statistics published), and implement agreements reached. It does not require arbitration.",
+  "id": 348
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is an advance pricing agreement (APA)?",
+  "back": "An arrangement that fixes in advance the method, comparables, adjustments and critical assumptions for pricing controlled transactions over a set period (OECD Guidelines Chapter IV, Section F).",
+  "id": 349
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Why does the OECD favour bilateral over unilateral APAs?",
+  "back": "A unilateral APA binds only one administration, so double taxation can remain; a bilateral APA is agreed by both competent authorities under the MAP article and removes it.",
+  "id": 350
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What happens if a critical assumption in an APA fails?",
+  "back": "The APA may be revised or cancelled, since it depends on those assumptions holding during the period.",
+  "id": 351
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "State the two steps of the authorised OECD approach (AOA) to PE profits.",
+  "back": "Step one: a functional and factual analysis treats the PE as a separate enterprise and attributes assets, risks and capital by significant people functions. Step two: price the dealings by applying Article 9 and the Guidelines by analogy (OECD Article 7(2), 2010 Report).",
+  "id": 352
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What are 'significant people functions' in the AOA?",
+  "back": "The functions that decide the assumption and management of risk and the use of assets; they determine where assets and risks are attributed to the PE.",
+  "id": 353
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "How does the UN Model's Article 7 differ from the AOA?",
+  "back": "It does not adopt the AOA in full: it keeps a limited force of attraction rule and restricts deductions for certain internal payments such as royalties, favouring the source state.",
+  "id": 354
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What did the 2018 Additional Guidance on attribution of profits to PEs address?",
+  "back": "How Article 7 and the AOA apply to PEs created by the Action 7 changes to Article 5, including that a dependent agent PE's profit must not double count the agent enterprise's arm's length remuneration under Article 9.",
+  "id": 355
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Name the three tiers of BEPS Action 13 documentation.",
+  "back": "The master file, the local file and the country by country report (Chapter V of the OECD Guidelines). Only the CbCR is a minimum standard.",
+  "id": 356
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What does the master file contain?",
+  "back": "A high level overview of the group: organisational structure, description of the business, intangibles, intercompany financial activities, and financial and tax positions.",
+  "id": 357
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What does the local file contain?",
+  "back": "Detailed information on the local entity's material controlled transactions: the transactions and amounts, functional and comparability analysis, the method chosen and financial information.",
+  "id": 358
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is the CbCR filing threshold and who files?",
+  "back": "Groups with consolidated revenue of at least EUR 750 million in the preceding year; the ultimate parent files in its residence state, with exchange to other jurisdictions.",
+  "id": 359
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What are the three tables of the country by country report?",
+  "back": "Table 1: revenue, profit, tax paid and accrued, capital, earnings, employees and tangible assets by jurisdiction. Table 2: constituent entities and their main activities. Table 3: additional information.",
+  "id": 360
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Can a tax administration make a transfer pricing adjustment based on the CbCR alone?",
+  "back": "No. The CbCR is for high level risk assessment, not a substitute for transactional analysis and not a basis for formulary apportionment.",
+  "id": 361
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "When is the CbCR due?",
+  "back": "Within 12 months of the last day of the group's fiscal year, with a secondary local filing mechanism if the parent's state does not exchange or fails systematically.",
+  "id": 362
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is the legal status of the UN Practical Manual on Transfer Pricing for Developing Countries (2021)?",
+  "back": "Non binding guidance by the UN Subcommittee on Transfer Pricing, not an official Commentary to the UN Model, setting out the UN's practical reading of the arm's length principle.",
+  "id": 363
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "How does the UN Manual approach location savings compared with the OECD Guidelines?",
+  "back": "Both treat them as comparability factors; the UN Manual stresses that the local entity should share in the savings, depending on what independent parties would agree, while the OECD uses local comparables or an allocation by functions, assets, risks and bargaining positions.",
+  "id": 364
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is the 'sixth method'?",
+  "back": "Used for quoted commodities between associated enterprises: the quoted price at shipment date is the arm's length price, with adjustments. It features in the UN Manual and some domestic laws, and is not one of the OECD's five methods.",
+  "id": 365
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What practical comparability problem do developing states face, and what does the UN Manual suggest?",
+  "back": "Few reliable local comparables; it accepts adjusted comparables from other regions and warns against using undisclosed data the taxpayer cannot challenge.",
+  "id": 366
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What simplified approach does the OECD offer for low value adding intra group services?",
+  "back": "A simplified approach with a 5% mark up on the cost pool (OECD Guidelines Chapter VII).",
+  "id": 367
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What does Article 24(4) say about deduction of interest paid to a non resident?",
+  "back": "Interest is deductible under the same conditions as if paid to a resident, except where Article 9(1), Article 11(6) or Article 12(4) applies (Article 12(6) in the UN Model; same structure in both Models).",
+  "id": 368
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What does Article 11(6) do?",
+  "back": "Where a special relationship makes the interest exceed what would have been agreed otherwise, Article 11 applies only to the arm's length amount; the excess remains taxable under domestic law with regard to other treaty provisions.",
+  "id": 369
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What did the CJEU decide in Lankhorst-Hohorst (2002)?",
+  "back": "A German thin capitalisation rule applying only to non resident parent lenders infringed freedom of establishment.",
+  "id": 370
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "What is the status of BEPS Action 4?",
+  "back": "A best practice recommendation, not a minimum standard, so states may adopt it or a different rule.",
+  "id": 371
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "State the Action 4 fixed ratio rule.",
+  "back": "An entity's net interest deduction is limited to a fixed percentage of its tax EBITDA, within a recommended corridor of 10% to 30%, chosen by each state.",
+  "id": 372
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Why does Action 4 use net interest and tax EBITDA?",
+  "back": "Net interest (interest expense minus interest income) measures actual financing cost, and tax EBITDA is earnings calculated under tax rules before interest, tax, depreciation and amortisation.",
+  "id": 373
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "How does the Action 4 group ratio rule work?",
+  "back": "An entity may deduct up to the group's net third party interest to EBITDA ratio times its own tax EBITDA, capped by the group's total net third party interest; it is optional and lets genuinely leveraged groups deduct more.",
+  "id": 374
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "List the optional Action 4 elements.",
+  "back": "A de minimis threshold (EUR 2 million is often quoted as an example; each state sets its own), carry forward of disallowed interest and unused capacity, targeted anti avoidance rules, and exclusions such as public benefit infrastructure.",
+  "id": 375
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Calculate: tax EBITDA 10,000,000, net interest 4,500,000, fixed ratio 30%. What is disallowed?",
+  "back": "Cap = 30% × 10,000,000 = 3,000,000, so 1,500,000 is disallowed (subject to carry forward and the de minimis threshold).",
+  "id": 376
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Group net third party interest 90,000,000, group EBITDA 200,000,000, entity tax EBITDA 10,000,000. What is the group ratio cap?",
+  "back": "Group ratio = 45%, so the cap = 45% × 10,000,000 = 4,500,000, higher than a 30% fixed ratio cap of 3,000,000.",
+  "id": 377
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "How are banks and insurers treated under the Action 4 work?",
+  "back": "The general rule suits them poorly because interest is their ordinary business, so they are treated separately, through regulatory capital rules, adapted rules or specific rules chosen by each state.",
+  "id": 378
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Why must a thin capitalisation rule be applied to domestic and foreign debt alike?",
+  "back": "To avoid breaching Article 24(4) non-discrimination (and, in the EU, freedom of establishment); the Action 4 report recommends this design.",
+  "id": 379
+ },
+ {
+  "chapter": 10,
+  "domain": "tp",
+  "front": "Does a denied interest deduction change the Article 11 withholding tax limit?",
+  "back": "No. The Article 11(2) cap (10% in the OECD Model; rate left to negotiation in the UN Model) still applies to interest actually paid unless domestic law recharacterises it as a dividend.",
+  "id": 380
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What are the two targets of the OECD's 1998 harmful tax competition report?",
+  "back": "Tax havens and harmful preferential tax regimes. It created the Forum on Harmful Tax Practices (FHTP) to review regimes.",
+  "id": 381
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What are the four key factors used to identify a harmful preferential regime?",
+  "back": "No or low effective tax rate (the gateway factor), ring-fencing, lack of transparency, and lack of effective exchange of information.",
+  "id": 382
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is ring-fencing in the FHTP framework?",
+  "back": "A regime is ring-fenced if it is partly or fully insulated from the domestic market, either by excluding residents from the benefit or by barring beneficiaries from operating domestically.",
+  "id": 383
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Name four of the 'other factors' the FHTP uses as supporting evidence of harm.",
+  "back": "For example: artificial definition of the tax base, failure to follow transfer pricing principles, a negotiable rate or base, secrecy provisions, a wide treaty network, promotion as a tax minimisation vehicle, purely tax driven operations with no substantial activity.",
+  "id": 384
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Which four BEPS Actions are minimum standards?",
+  "back": "Action 5 (harmful tax practices), Action 6 (treaty abuse), Action 13 (transfer pricing documentation and CbC reporting) and Action 14 (dispute resolution).",
+  "id": 385
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What are the two main components of the Action 5 minimum standard?",
+  "back": "The substantial activity requirement (applied to IP regimes through the nexus approach) and the transparency framework of compulsory spontaneous exchange of rulings.",
+  "id": 386
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is the nexus approach for IP regimes?",
+  "back": "Benefits are allowed only to the extent the taxpayer itself incurred qualifying R&D expenditure that gave rise to the IP income, using that expenditure as the proxy for substantial activity.",
+  "id": 387
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "State the nexus ratio.",
+  "back": "(Qualifying expenditures + uplift) ÷ overall expenditures on the IP asset; multiplied by overall IP income it gives the income that may benefit from the regime.",
+  "id": 388
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "How is the nexus uplift calculated?",
+  "back": "The lesser of 30% of qualifying expenditures and the non-qualifying expenditures (overall minus qualifying).",
+  "id": 389
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Which IP assets qualify under the nexus approach?",
+  "back": "Patents and functionally equivalent IP assets (non-obvious, useful, novel, legally protected); copyrighted software for small taxpayers. Marketing IP such as trademarks does not qualify.",
+  "id": 390
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Nexus example: qualifying expenditure 700, non-qualifying 300, IP income 500. What income benefits?",
+  "back": "Uplift = lesser of 210 and 300 = 210. Ratio = 910 ÷ 1,000 = 91%. Benefiting income = 91% × 500 = 455.",
+  "id": 391
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What categories of ruling does the Action 5 transparency framework cover?",
+  "back": "Rulings on preferential regimes; unilateral cross-border APAs and transfer pricing rulings; downward profit adjustments not reflected in the accounts; PE rulings; related party conduit rulings; plus any other ruling type the FHTP later agrees.",
+  "id": 392
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What happened to grandfathering of existing IP regimes under Action 5?",
+  "back": "Existing IP regimes were closed to new entrants from 30 June 2016 and grandfathered benefits ended on 30 June 2021.",
+  "id": 393
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Why is Action 5 described as peer reviewed rather than enforced?",
+  "back": "The FHTP monitors implementation and publishes results; the pressure is reputational and political, plus defensive measures other states may take, not a formal sanction.",
+  "id": 394
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What does a CFC rule do?",
+  "back": "It attributes certain income of a low-taxed foreign company controlled by residents to those resident shareholders, taxing them currently whether or not it is distributed.",
+  "id": 395
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is the difference between the transactional and jurisdictional approach to CFC rules?",
+  "back": "Transactional rules attribute defined categories of income (such as passive income); jurisdictional rules apply where the CFC is in a listed or low tax state. Many states combine them.",
+  "id": 396
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "How do foreign personal holding company rules differ from CFC rules?",
+  "back": "FPHC rules turn on closely held ownership and mainly passive income; CFC rules turn on control and the income type or foreign tax level. PFIC rules also reach minority holders.",
+  "id": 397
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "List the six building blocks of effective CFC rules in Action 3.",
+  "back": "Definition of a CFC; exemptions and thresholds; definition of CFC income; rules for computing income; rules to attribute income; rules to prevent and eliminate double taxation.",
+  "id": 398
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Is Action 3 a minimum standard?",
+  "back": "No. Action 3 sets out recommendations (building blocks) for CFC rule design; states remain free to design their own rules.",
+  "id": 399
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What control tests may a CFC definition use under Action 3?",
+  "back": "Legal control, economic control, de facto control, or a combination; related party holdings may be aggregated, and control above 50% is the typical level.",
+  "id": 400
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Name three approaches to defining CFC income discussed in Action 3.",
+  "back": "Categorical analysis, substance analysis and excess profits analysis.",
+  "id": 401
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "CFC example: CFC income 300, parent holds 60%, parent rate 25%, foreign tax on CFC income 5%. What is the net home tax?",
+  "back": "Attributed 60% × 300 = 180; tax 45; credit 5% × 300 × 60% = 9; net tax 36.",
+  "id": 402
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Why are CFC rules generally held not to conflict with Article 7 of the OECD Model?",
+  "back": "Article 7 limits taxation of the foreign company's profits by the source state; a CFC rule taxes the resident shareholder on attributed income, so it is not a tax on the foreign enterprise (OECD Commentary on Article 1).",
+  "id": 403
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What did the CJEU decide in Cadbury Schweppes (2006)?",
+  "back": "CFC rules restricting freedom of establishment can be justified only if they target wholly artificial arrangements, so EU states added a substance or motive exception.",
+  "id": 404
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What are the three outcomes of a hybrid mismatch in Action 2?",
+  "back": "Deduction/no inclusion (D/NI), double deduction (DD) and indirect D/NI (imported mismatch).",
+  "id": 405
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Give four of the five types of hybrid mismatch arrangement.",
+  "back": "Hybrid financial instruments, hybrid transfers (such as repos), disregarded payments by hybrid entities, payments to reverse hybrids, and dual resident entities.",
+  "id": 406
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "State the primary and defensive rule for a D/NI mismatch.",
+  "back": "Primary: the payer state denies the deduction to the extent the payment is not included in ordinary income in the payee state. Defensive: if not denied, the payee state includes it in ordinary income.",
+  "id": 407
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "State the primary and defensive rule for a double deduction.",
+  "back": "Primary: the parent (investor) state denies the deduction; defensive: the payer state denies it. Dual inclusion income can absorb the deduction.",
+  "id": 408
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is dual inclusion income?",
+  "back": "Income that is included in ordinary income in both states, against which a double deduction may be allowed.",
+  "id": 409
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "When do the Action 2 hybrid rules apply to payments?",
+  "back": "Between related parties in a control group (a 25% test, extended to 50% for some rules) and under structured arrangements priced to reflect the mismatch.",
+  "id": 410
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What timing difference is tolerated under the Action 2 rules?",
+  "back": "No mismatch arises if the payment is included in ordinary income within a reasonable period, which the report suggests is 12 months from the end of the payer's accounting period.",
+  "id": 411
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Which OECD Model changes did Action 2 recommend?",
+  "back": "Commentary on Article 1 for transparent entities, Article 4(3) so competent authorities decide the residence of dual resident entities by mutual agreement (the UN Model 2025 also uses this approach), and Article 23 so exemption does not apply to income deductible in the source state.",
+  "id": 412
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "Hybrid example: State S deducts 100 interest at 25%; State R treats the payment as an exempt dividend. What does the primary rule do?",
+  "back": "State S denies the 100 deduction, adding 100 × 25% = 25 to Sub Co's tax and neutralising the mismatch.",
+  "id": 413
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is an imported mismatch?",
+  "back": "A payment deductible in one state funds a deductible hybrid payment elsewhere; the rule denies the deduction so the mismatch effect is not imported into the payer's state.",
+  "id": 414
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What are the three pillars of the BEPS Project?",
+  "back": "Coherence of domestic rules (Actions 2 to 5), alignment of taxation with substance (Actions 5 to 10) and transparency, certainty and predictability (Actions 11 to 14), with Actions 1 and 15 cross cutting.",
+  "id": 415
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What do Actions 8 to 10 cover?",
+  "back": "Aligning transfer pricing outcomes with value creation: intangibles (8), risks and capital (9) and other high risk transactions (10).",
+  "id": 416
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is Action 4 and what status do its outputs have?",
+  "back": "Limiting base erosion through interest deductions; the best practice recommendation is a fixed ratio rule of 10% to 30% of tax EBITDA, optionally with a group ratio rule.",
+  "id": 417
+ },
+ {
+  "chapter": 11,
+  "domain": "avoidance",
+  "front": "What is the purpose of Action 11 and its status?",
+  "back": "To measure and monitor BEPS through indicators and data analysis; it is a monitoring mandate, not a rule or minimum standard.",
+  "id": 418
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Which body is the main international standard setter on money laundering, and what did its 2012 revision add on tax?",
+  "back": "The Financial Action Task Force (FATF). Its 2012 revised Recommendations listed serious tax crimes among the designated predicate offences for money laundering.",
+  "id": 419
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is a predicate offence in money laundering law?",
+  "back": "The underlying crime that generates the criminal property, here serious tax evasion. Without a predicate offence there is nothing to launder.",
+  "id": 420
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Why is the distinction between evasion and avoidance central to the tax and money laundering link?",
+  "back": "Only evasion (dishonest non-disclosure or a false statement) is a crime and so can be a predicate offence. Avoidance, however aggressive, is not.",
+  "id": 421
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is the revenue rule, and which English case is the usual authority?",
+  "back": "Courts of one state do not enforce the tax claims of another. The usual authority is Government of India v Taylor (House of Lords, 1955).",
+  "id": 422
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What did Pasquantino v United States (2005) decide?",
+  "back": "The US Supreme Court held that a scheme to defraud a foreign government of tax revenue, using US wires, could be prosecuted as wire fraud, and the revenue rule did not prevent it.",
+  "id": 423
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is dual criminality in the context of foreign fiscal offences?",
+  "back": "The conduct must be an offence both where it occurred and in the state asked to act, so a state that criminalises equivalent evasion of its own taxes can usually treat foreign evasion as qualifying.",
+  "id": 424
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What information standard does Article 26 of the OECD Model set?",
+  "back": "Information that is foreseeably relevant for applying the convention or administering and enforcing domestic tax laws. The phrase replaced 'necessary' in the 2005 update.",
+  "id": 425
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Has the UN Model adopted the same relevance standard as the OECD Model in Article 26?",
+  "back": "Yes. The UN Model's 2011 update aligned Article 26 with the foreseeably relevant wording, so the two Models are now very close on the standard.",
+  "id": 426
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Is Article 26 exchange limited to residents or to taxes covered by the treaty?",
+  "back": "No. It is not limited by Article 1 (persons covered) or Article 2 (taxes covered); it extends to taxes of every kind imposed by or on behalf of the contracting states.",
+  "id": 427
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Can a requested state refuse an Article 26 request because the information is held by a bank?",
+  "back": "No. Paragraph 5 of OECD Article 26 (added in 2005, with a UN equivalent) bars refusal solely because information is held by a bank, nominee, agent or fiduciary or concerns ownership interests.",
+  "id": 428
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Does a requested state need a domestic tax interest in the information before it must act under Article 26?",
+  "back": "No. The requested state must use its information gathering powers to answer the request even where it has no domestic tax interest.",
+  "id": 429
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "List the three modes of exchange of information.",
+  "back": "On request (specific and targeted), spontaneous (volunteered because it may be relevant to the other state) and automatic (systematic bulk transmission of predefined information at regular intervals).",
+  "id": 430
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is a fishing expedition and why is it not permitted under Article 26?",
+  "back": "A speculative request with no link to an identified taxpayer, group or investigation. Foreseeable relevance requires such a link, although group requests that identify a pattern of behaviour can be valid.",
+  "id": 431
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "To whom may information received under Article 26 be disclosed?",
+  "back": "Persons or authorities, including courts, concerned with assessment, collection, enforcement, prosecution, appeals or oversight of the taxes. The OECD text allows other uses if both states' laws permit and the supplying authority authorises.",
+  "id": 432
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Name three grounds on which a state may decline to supply information under Article 26.",
+  "back": "Administrative measures contrary to its law or practice, information not obtainable under either state's laws, and trade, business or professional secrets or information contrary to public policy (ordre public).",
+  "id": 433
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is a TIEA and what does the OECD Model TIEA (2002) provide?",
+  "back": "A tax information exchange agreement dealing only with information. The Model provides exchange on request, with no domestic interest requirement, covering civil and criminal matters, and bank and ownership information, with safeguards against fishing expeditions.",
+  "id": 434
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Does a TIEA give relief from double taxation?",
+  "back": "No. It creates no taxing rights and gives no relief; it is a purely administrative instrument.",
+  "id": 435
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is the Global Forum on Transparency and Exchange of Information for Tax Purposes and how does it work?",
+  "back": "A wide membership body, restructured in 2009, that peer reviews jurisdictions' legal frameworks (Phase 1) and practice (Phase 2) against the exchange standards and issues ratings.",
+  "id": 436
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What are the Global Forum's overall peer review ratings?",
+  "back": "Compliant, Largely Compliant, Partially Compliant and Non-Compliant.",
+  "id": 437
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Which standards does the Global Forum monitor?",
+  "back": "The two international standards: exchange of information on request and automatic exchange of financial account information under the Common Reporting Standard. Beneficial ownership transparency is assessed as part of the on request standard.",
+  "id": 438
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What are the three tiers of BEPS Action 13 documentation?",
+  "back": "The master file (group overview), the local file (local entity's related party transactions) and the country-by-country report (revenue, profit, tax and activity data per jurisdiction).",
+  "id": 439
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What is the CbC reporting threshold and how is it tested?",
+  "back": "Consolidated group revenue of EUR 750 million (or local currency equivalent) in the preceding fiscal year. The test looks back one year.",
+  "id": 440
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Where is a CbC report normally filed and how does it reach other tax authorities?",
+  "back": "By the ultimate parent in its jurisdiction of residence, then exchanged automatically under qualifying competent authority agreements. Secondary or local filing applies if the parent's state does not require or exchange it.",
+  "id": 441
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "How may tax authorities use CbC data?",
+  "back": "For high level transfer pricing and BEPS risk assessment, not as conclusive evidence of transfer pricing outcomes, and not as a basis for formulary apportionment of income.",
+  "id": 442
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Is the United States a participant in the Common Reporting Standard?",
+  "back": "No. The US operates FATCA through intergovernmental agreements (Model 1 and Model 2) and does not exchange under the CRS.",
+  "id": 443
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What triggers CRS reporting on an individual account holder: citizenship or residence?",
+  "back": "Tax residence. A reportable person is resident in a reportable jurisdiction; citizenship is not the trigger.",
+  "id": 444
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "How are passive non-financial entities treated under the CRS?",
+  "back": "The financial institution looks through to the controlling persons, defined by reference to the FATF beneficial owner concept, and reports those resident in a reportable jurisdiction.",
+  "id": 445
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What due diligence applies to pre-existing individual accounts under the CRS?",
+  "back": "Lower value accounts (up to USD 1,000,000) can be reviewed by electronic record search for indicia; high value accounts (above USD 1,000,000) need an enhanced review including a paper search and inquiry of the relationship manager.",
+  "id": 446
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What are the main 2023 amendments to the CRS?",
+  "back": "Approved June 2023: coverage of electronic money products and central bank digital currencies, indirect crypto-asset investment, stronger due diligence and reporting outcomes, and an optional exclusion for genuine non-profits. Start dates vary by jurisdiction.",
+  "id": 447
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What does the Crypto-Asset Reporting Framework (CARF) cover?",
+  "back": "Reporting crypto-asset service providers must report transactions in relevant crypto-assets, such as exchanges with fiat currency or other crypto-assets, using CRS style due diligence and automatic exchange. First-wave jurisdictions, including the EU through DAC8, apply it from 1 January 2026, with first exchanges in 2027; later waves follow from 2028.",
+  "id": 448
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What does Article 27 of the OECD and UN Models provide?",
+  "back": "Assistance in the collection of taxes: the requested state collects the other state's enforceable revenue claim as its own debt, and may take conservancy measures. Exceptions apply for public policy and disproportionate burden.",
+  "id": 449
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Why is Article 27 needed as a treaty provision?",
+  "back": "Because of the revenue rule, a foreign tax debt is not otherwise collectable abroad. The treaty creates the exception.",
+  "id": 450
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What forms of assistance does the Multilateral Convention on Mutual Administrative Assistance in Tax Matters provide?",
+  "back": "Exchange on request, spontaneous and automatic; simultaneous tax examinations and examinations abroad; assistance in recovery and conservancy; and service of documents.",
+  "id": 451
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Who developed the Multilateral Convention and what did the 2010 Protocol change?",
+  "back": "The OECD and the Council of Europe, opened for signature in 1988. The 2010 Protocol (in force 2011) aligned it with the Article 26 standard and opened it to all states.",
+  "id": 452
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "What does BEPS Action 12 recommend, and is it a minimum standard?",
+  "back": "A modular framework for mandatory disclosure of aggressive or abusive arrangements, designed by choosing who reports, which hallmarks apply, timing and penalties. It is best practice, not a minimum standard.",
+  "id": 453
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "Which MLI provisions are minimum standards, and which provision do most states use to meet the treaty abuse standard?",
+  "back": "The preamble (Article 6), treaty abuse (Article 7) and dispute resolution (Article 16). Most states meet Article 7 through the principal purposes test alone.",
+  "id": 454
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "When does the MLI actually modify a bilateral treaty?",
+  "back": "Only where the treaty is a covered tax agreement notified by both parties and their choices and reservations match on the provision. Practitioners use matching tables or synthesised texts.",
+  "id": 455
+ },
+ {
+  "chapter": 12,
+  "domain": "avoidance",
+  "front": "How does beneficial ownership for AML and transparency differ from beneficial owner in Articles 10, 11 and 12?",
+  "back": "For AML it means the natural person who ultimately owns or controls an entity. In Articles 10 to 12 it concerns entitlement to treaty benefits and has a distinct, treaty specific meaning.",
+  "id": 456
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is the destination basis for VAT?",
+  "back": "Tax is levied where goods or services are consumed: exports are zero-rated and imports taxed on entry, so imported and domestic goods bear the same tax in the market of consumption.",
+  "id": 457
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is the origin basis for VAT and why is it less favoured?",
+  "back": "Tax is levied where goods are produced, so exports carry the exporter's tax and imports enter free. It distorts competition where rates differ, so the destination basis is the international norm.",
+  "id": 458
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "Why can an income tax treaty not be applied to VAT?",
+  "back": "OECD and UN Model Article 2 limits the Models to taxes on income and on capital, so VAT falls outside them.",
+  "id": 459
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is border tax adjustment and which taxes may be adjusted?",
+  "back": "It is relief of tax on exports and a matching charge on imports. The 1970 GATT working party view is that indirect taxes such as VAT may be adjusted but direct taxes such as income tax may not.",
+  "id": 460
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What does GATT Article III require of internal taxes?",
+  "back": "National treatment: imports must not be taxed in excess of like domestic products, and taxes must not be applied so as to protect domestic production.",
+  "id": 461
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "How does the SCM Agreement treat export tax relief?",
+  "back": "Subsidies contingent on export performance are prohibited. Under Annex I, remission of indirect taxes beyond those borne by the domestic product, and certain exemptions of direct tax on export income, count as export subsidies.",
+  "id": 462
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What did the WTO decide in the US foreign sales corporation dispute?",
+  "back": "The Appellate Body held that the regime, which exempted part of export income from direct tax, was a prohibited export subsidy.",
+  "id": 463
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is GATS Article XIV(d)?",
+  "back": "A general exception for measures aimed at the equitable or effective imposition or collection of direct taxes, including residence-based differences, provided they are not arbitrary or a disguised restriction.",
+  "id": 464
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "Outline WTO dispute settlement under the DSU.",
+  "back": "Consultations, a panel, appeal on law to the Appellate Body, adoption of reports and, if a member does not comply, authorised retaliation. The Appellate Body has been unable to hear new appeals since late 2019.",
+  "id": 465
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "List the main tax problems of a cross-border merger.",
+  "back": "A dry charge on gains from a share or asset transfer, exit tax on assets leaving the jurisdiction, loss of tax attributes, shareholder-level gains on the exchange, and treaty source taxation of share gains.",
+  "id": 466
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is exit taxation?",
+  "back": "A charge by a state on unrealised gains when assets or residence leave its taxing jurisdiction, because it will have no later right to tax those gains.",
+  "id": 467
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What did the CJEU decide in National Grid Indus on exit tax?",
+  "back": "Fixing the gain at exit is permitted, but immediate collection of tax on unrealised gains can breach freedom of establishment, so the taxpayer should be offered deferral or instalments.",
+  "id": 468
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What does the EU Merger Directive provide and what limits it?",
+  "back": "Deferral of tax for qualifying mergers, divisions, asset transfers and share exchanges within the EU. It requires carry-over of tax values, a continuing PE link for assets and has an anti-avoidance clause.",
+  "id": 469
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "How can a treaty relieve a cross-border share exchange?",
+  "back": "Bilateral treaties can include clauses, as the Article 13 Commentary contemplates, so a reorganisation gain is not taxed where domestic law gives deferral. Few treaties contain them.",
+  "id": 470
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "Which Articles may tax a gain on shares in a merger?",
+  "back": "Article 13(4) of both Models for property-rich shares and, in the UN Model only, Article 13(5) for substantial holdings in a resident company. The UN Model 2025 has eight paragraphs in Article 13, the OECD Model five.",
+  "id": 471
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "What is the status of the OECD COVID-19 treaty analysis?",
+  "back": "It is Secretariat analysis (April 2020, updated January 2021), not an amendment of the Commentary, so it is persuasive guidance on applying existing Articles in exceptional circumstances.",
+  "id": 472
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "How did the OECD COVID analysis treat employees stranded abroad under Article 15?",
+  "back": "Days of unforeseen presence caused by government measures could be treated as days in the usual place of work for the 183 day test in Article 15(2), and bilateral agreements often applied this to border workers.",
+  "id": 473
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "Did a COVID-forced home office create a PE under Article 5?",
+  "back": "The Secretariat view was no: the temporary use of a home under government health measures was not a fixed place of business at the enterprise's disposal, and a stranded agent's activity was not habitual authority.",
+  "id": 474
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "How did the OECD COVID analysis treat company residence under Article 4(3)?",
+  "back": "A temporary change in where directors sat, caused by the crisis, should not change the Article 4(3) outcome (competent authority agreement in both Models, with place of effective management only one factor), and stranded individuals could keep their previous residence under the permanent home tests.",
+  "id": 475
+ },
+ {
+  "chapter": 13,
+  "domain": "misc",
+  "front": "Name three tax issues raised by crypto-assets and by AI.",
+  "back": "Characterisation as property, trading stock or payment instrument, no physical location for residence and source, and enforcement (the OECD CARF). For AI: PE attribution, since Article 5(5) needs a person, and transfer pricing of algorithms as intangibles.",
+  "id": 476
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What is the length and structure of the ADIT Principles of International Taxation (Module 1) paper?",
+  "back": "The paper lasts 3 hours 15 minutes with no separate reading time. Part A has three essay-type questions and Part B two scenario-type questions, each worth 25 marks (Part A had five questions before the 2025 exams).",
+  "id": 477
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How many questions must you answer, and from which parts?",
+  "back": "Four in total, with at least two from Part A and at least one from Part B.",
+  "id": 478
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How are marks spread across questions?",
+  "back": "Every question is marked out of 25, so each is worth a quarter of the paper and deserves about a quarter of the time.",
+  "id": 479
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What time plan fits 195 minutes?",
+  "back": "About 45 minutes per question including planning (4 × 45 = 180), leaving 15 minutes for choosing questions at the start and checking at the end (195 minus 180).",
+  "id": 480
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Is the ADIT paper open book?",
+  "back": "No, it is closed book apart from the permitted books (such as the OECD Model including the 2025 Update, the UN Model (2021 edition listed for 2026, later editions allowed, so state which numbering you use), the TP Guidelines 2022, the MLI and its Explanatory Statement, the Pillar documents listed by the CIOT, the VCLT, Van Raad) and the PDFs on the exam platform.",
+  "id": 481
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Do you need detailed case citations?",
+  "back": "No, you may cite cases and sources by their general name without detailed citations, but you must state the point they make and give the correct Article or source.",
+  "id": 482
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Does reciting an Article or Commentary passage earn marks?",
+  "back": "No, marks are not given for reciting verbatim. They reward critical analysis and problem solving, marked holistically.",
+  "id": 483
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What are the six parts of a good essay answer?",
+  "back": "Issue, rule and source, OECD versus UN, arguments both ways, application, and a reasoned conclusion that answers the question.",
+  "id": 484
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Why must an essay answer discuss the UN Model as well as the OECD Model?",
+  "back": "Both Models have equal prominence in the syllabus, and they differ on points such as permanent establishment and royalties, so a comparative point earns marks that an OECD-only answer misses.",
+  "id": 485
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What makes a conclusion weak in an essay answer?",
+  "back": "Merely saying there are arguments on both sides. A strong conclusion says which side is stronger and why.",
+  "id": 486
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Give the steps for answering a treaty scenario.",
+  "back": "Identify the taxpayer and income, determine residence, check treaty availability, pick the distributive article, state the limitation, apply relief (Article 23A or 23B), consider anti-abuse, then procedure.",
+  "id": 487
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How is dual residence of an individual resolved in a scenario?",
+  "back": "Apply the treaty tie-breaker in Article 4(2) of the Model: permanent home, centre of vital interests, habitual abode, nationality, then mutual agreement.",
+  "id": 488
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Why raise anti-abuse in every treaty scenario?",
+  "back": "Treaty benefit may be denied or limited by a principal purpose test, a limitation on benefits clause, a beneficial ownership requirement or domestic anti-avoidance rules, and omitting it is a common lost mark.",
+  "id": 489
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "In a scenario, how should numbers be presented?",
+  "back": "Show the working in clear lines, state assumptions, and use illustrative rates only if the question gives them or you flag them as assumed.",
+  "id": 490
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What is the effect of Article 23B on relief in a scenario?",
+  "back": "The residence State gives a credit limited to the lower of the source State tax paid and its own tax on that income, so with 80 paid and 100 due it collects 20.",
+  "id": 491
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How does exemption under Article 23A differ numerically from credit?",
+  "back": "With exemption the residence State exempts the income, so total tax is only the source State tax (80 in the worked example), whereas credit gives total tax at the higher rate (100).",
+  "id": 492
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How should you use the permitted texts during the exam?",
+  "back": "Find the Article by name first, confirm its number, and compare the OECD and UN provision. Prepare beforehand by learning the layout so retrieval takes seconds.",
+  "id": 493
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Why practise with the exact versions of the permitted texts?",
+  "back": "Article numbers, Commentary paragraph numbers and layout change between editions, so using the wrong version wastes time and risks misquotation.",
+  "id": 494
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "Name three common mistakes in ADIT answers.",
+  "back": "Listing without analysis, ignoring the UN Model, and ignoring anti-abuse rules. Others are answering the topic instead of the question and omitting the conclusion.",
+  "id": 495
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What should you do if you reach 45 minutes and are unfinished?",
+  "back": "Write a short conclusion and move on, returning later if time allows. A brief conclusion is worth more than extra unfinished analysis.",
+  "id": 496
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What are the syllabus weights as this book states them?",
+  "back": "Section I 20%, Sections II and III together 30%, Section IV 20%, Section V 25%, Section VI 5%, totalling 100% (check the current ADIT syllabus for the exact weights).",
+  "id": 497
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How should revision time follow the weights?",
+  "back": "Roughly in proportion, adjusted for weakness, with extra application practice on the Level 3 content that makes up most of Sections II to V, and no section skipped entirely.",
+  "id": 498
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "How should the Commentaries be treated when writing an answer?",
+  "back": "As an interpretive aid, not binding law. Their weight differs between States, so say so when the point matters, and remember the VCLT general rule of interpretation.",
+  "id": 499
+ },
+ {
+  "chapter": 14,
+  "domain": "basic",
+  "front": "What is the pass mark for the paper?",
+  "back": "This chapter's sources do not state one, so check the CIOT's current guidance before sitting and do not rely on unofficial figures.",
+  "id": 500
+ }
+]
